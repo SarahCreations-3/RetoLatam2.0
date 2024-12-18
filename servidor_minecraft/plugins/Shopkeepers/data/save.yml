@@ -387,7 +387,7 @@ data-version: 3|2|3465
         ==: org.bukkit.inventory.ItemStack
         v: 3465
         type: IRON_NUGGET
-        amount: 10
+        amount: 5
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC

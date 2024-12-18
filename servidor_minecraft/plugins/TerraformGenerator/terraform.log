@@ -4090,3 +4090,33 @@
 [2024-12-18 03:17:11] [INFO   ] Minecart with chest at: -207, 11, -1204 
 [2024-12-18 03:52:13] [INFO   ] Large Cave at -704,7,-1216 has water level > -22 with populator LargeLushCavePopulator 
 [2024-12-18 03:52:13] [INFO   ] Calculated structure at -33,-86 
+[2024-12-18 04:07:46] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at -237 -9 -631 in a room of size 13x13 
+[2024-12-18 04:07:46] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -147 -9 -636 in a room of size 13x13 
+[2024-12-18 04:07:46] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at -162 -9 -710 in a room of size 14x13 
+[2024-12-18 04:07:46] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -227 -9 -726 in a room of size 14x13 
+[2024-12-18 04:07:46] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at -158 -9 -758 in a room of size 13x14 
+[2024-12-18 04:07:46] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at -216 -9 -661 in a room of size 14x14 
+[2024-12-18 04:07:46] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -144 -9 -659 in a room of size 14x15 
+[2024-12-18 04:07:46] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at -193 -9 -761 in a room of size 14x15 
+[2024-12-18 04:07:46] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at -179 -9 -656 in a room of size 14x15 
+[2024-12-18 04:07:46] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -248 6 -697 in a room of size 15x15 
+[2024-12-18 04:07:46] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -119 6 -633 in a room of size 14x14 
+[2024-12-18 04:07:46] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at -193 6 -761 in a room of size 14x6 
+[2024-12-18 04:07:46] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -219 6 -633 in a room of size 14x15 
+[2024-12-18 04:07:46] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at -162 6 -710 in a room of size 14x6 
+[2024-12-18 04:07:46] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at -158 6 -758 in a room of size 13x7 
+[2024-12-18 04:07:46] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at -237 6 -631 in a room of size 13x7 
+[2024-12-18 04:07:46] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -235 6 -738 in a room of size 15x13 
+[2024-12-18 04:07:46] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -230 6 -754 in a room of size 14x13 
+[2024-12-18 04:07:46] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -134 6 -740 in a room of size 15x13 
+[2024-12-18 04:07:46] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at -179 6 -656 in a room of size 14x5 
+[2024-12-18 04:07:46] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -259 6 -765 in a room of size 14x15 
+[2024-12-18 04:07:46] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at -216 6 -661 in a room of size 14x6 
+[2024-12-18 04:07:46] [INFO   ] Calculated structure at -16,-64 
+[2024-12-18 04:16:32] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 16,-73 
+[2024-12-18 04:16:32] [INFO   ] Spawning Underground Dungeon at 261,37,-1155 
+[2024-12-18 04:16:59] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: 20,-76 
+[2024-12-18 04:17:06] [INFO   ] Large Cave at 320,17,-704 has water level > -16 with populator GenericLargeCavePopulator 
+[2024-12-18 04:17:06] [INFO   ] Calculated structure at 14,-64 
+[2024-12-18 04:18:16] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 10,-54 
+[2024-12-18 04:18:16] [INFO   ] Spawning Underground Dungeon at 174,18,-852 
