@@ -661,3 +661,116 @@ Direct Download: https://get.discordsrv.com
 [20:47:28] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
 [20:47:28] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
 [20:47:32] [Async Chat Thread - #4/INFO]: [Not Secure] ֎ joseperez2 > por eso se murio
+[20:49:53] [Server thread/WARN]: joseperez2 moved too quickly! -10.643100646694165,0.001335979112141672,-0.3180126817605924
+[20:50:05] [JDA MainWS-ReadThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket (Code 1000). Appending to reconnect queue
+[20:50:07] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[20:50:08] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV] [JDA] WebSocket connection was closed and cannot be recovered due to identification issues
+CloseCode(4004 / The account token sent with your identify payload is incorrect.)
+[20:50:08] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV] ===================================================
+[20:50:08] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  
+[20:50:08] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  DiscordSRV was disconnected from Discord because:
+[20:50:08] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  The bot token is invalid
+[20:50:08] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  
+[20:50:08] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV] ===================================================
+[20:50:08] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.28.0
+[20:50:13] [DiscordSRV - Shutdown/WARN]: [DiscordSRV] JDA took too long to shut down, skipping
+[20:50:13] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] Apagado completado en 5007ms
+[20:50:13] [Server thread/WARN]: joseperez2 moved too quickly! -14.507816501444267,2.0,0.06553551962633719
+[20:50:13] [Server thread/WARN]: Itenns moved too quickly! -0.5476011640553224,-0.1647732818260721,13.19110662354933
+[20:50:25] [Async Chat Thread - #7/INFO]: [Not Secure] ୰ Sarh_a180_23 > hay no
+[20:50:26] [Async Chat Thread - #6/INFO]: [Not Secure] ୰ Sarh_a180_23 > XD
+[20:50:46] [Async Chat Thread - #7/INFO]: [Not Secure] ֎ Itenns > e
+[20:50:59] [Async Chat Thread - #6/INFO]: [Not Secure] ୰ Sarh_a180_23 > el bot oficial de discord volvio a detectar que se violó la seguridad de mi bot por poner su token en la config del server
+[20:51:07] [Async Chat Thread - #7/INFO]: [Not Secure] ֎ Itenns > xd
+[20:51:10] [Async Chat Thread - #6/INFO]: [Not Secure] ୰ Sarh_a180_23 > asi que tumbo el enlace entre minecraft y discord
+[20:51:15] [Server thread/INFO]: Named entity EntitySkeletonWither['Skeletal Knight'/10416, uuid='1e9c7e48-cf78-43b0-99a0-8cf7d8780df7', l='ServerLevel[world]', x=-3772.50, y=16.00, z=2385.50, cpos=[-236, 149], tl=450, v=true] died: Skeletal Knight suffocated in a wall
+[20:51:27] [Craft Scheduler Thread - 62 - TradeManager/WARN]: [TradeManager] Plugin TradeManager v1.3.7 generated an exception while executing task 66
+java.lang.IllegalStateException: VillagerAcquireTradeEvent may only be triggered synchronously.
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:42) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.entity.npc.AbstractVillager.addOffersFromItemListings(AbstractVillager.java:288) ~[?:?]
+	at net.minecraft.world.entity.npc.Villager.updateTrades(Villager.java:961) ~[?:?]
+	at net.minecraft.world.entity.npc.Villager.updateTrades(Villager.java:947) ~[?:?]
+	at net.minecraft.world.entity.npc.AbstractVillager.getOffers(AbstractVillager.java:129) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.inventory.CraftMerchant.getRecipes(CraftMerchant.java:27) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.entity.CraftAbstractVillager.getRecipes(CraftAbstractVillager.java:41) ~[paper-1.20.1.jar:git-Paper-196]
+	at me.cantbejohn.tradeManager.events.TradeRestockCooldown.checkTrades(TradeRestockCooldown.java:130) ~[TradeManager-1.3.7.jar:?]
+	at me.cantbejohn.tradeManager.events.TradeRestockCooldown$1.run(TradeRestockCooldown.java:102) ~[TradeManager-1.3.7.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.20.1.jar:git-Paper-196]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.20.1.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:52:27] [Craft Scheduler Thread - 53 - TradeManager/WARN]: [TradeManager] Plugin TradeManager v1.3.7 generated an exception while executing task 66
+java.lang.IllegalStateException: VillagerAcquireTradeEvent may only be triggered synchronously.
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:42) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.entity.npc.AbstractVillager.addOffersFromItemListings(AbstractVillager.java:288) ~[?:?]
+	at net.minecraft.world.entity.npc.Villager.updateTrades(Villager.java:961) ~[?:?]
+	at net.minecraft.world.entity.npc.Villager.updateTrades(Villager.java:947) ~[?:?]
+	at net.minecraft.world.entity.npc.AbstractVillager.getOffers(AbstractVillager.java:129) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.inventory.CraftMerchant.getRecipes(CraftMerchant.java:27) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.entity.CraftAbstractVillager.getRecipes(CraftAbstractVillager.java:41) ~[paper-1.20.1.jar:git-Paper-196]
+	at me.cantbejohn.tradeManager.events.TradeRestockCooldown.checkTrades(TradeRestockCooldown.java:130) ~[TradeManager-1.3.7.jar:?]
+	at me.cantbejohn.tradeManager.events.TradeRestockCooldown$1.run(TradeRestockCooldown.java:102) ~[TradeManager-1.3.7.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.20.1.jar:git-Paper-196]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.20.1.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:52:32] [Async Chat Thread - #8/INFO]: [Not Secure] ֎ joseperez2 > ya tengo el portal
+[20:52:50] [Server thread/INFO]: joseperez2 has made the advancement [We Need to Go Deeper]
+[20:52:50] [Server thread/INFO]: joseperez2 has made the advancement [Incendium]
+[20:52:50] [Server thread/INFO]: joseperez2 has made the advancement [The Dust Settles]
+[20:52:50] [Server thread/INFO]: joseperez2 has made the advancement [Strange Biomes]
+[20:53:01] [Async Chat Thread - #9/INFO]: [Not Secure] ֎ Itenns > XD
+[20:53:41] [Server thread/INFO]: Sis has made the advancement [Isn't It Iron Pick]
+[20:56:13] [Server thread/INFO]: Sarh_a180_23 has completed the challenge [Hot Tourist Destinations]
+[20:56:13] [Server thread/INFO]: Sarh_a180_23 has reached the goal [A Piece of Otherworld]
+[20:56:46] [User Authenticator #3/INFO]: UUID of player Comunalgoat13 is 991faab2-537e-3a9d-953c-ca6316bec317
+[20:56:46] [Server thread/INFO]: Comunalgoat13[/127.223.76.198:49271] logged in with entity id 16666 at ([world]-3727.4233095536797, 80.48539811435589, 3938.752757497029)
+[20:56:59] [Server thread/INFO]: Comunalgoat13 issued server command: /tp joseperez2
+[20:56:59] [Server thread/INFO]: Comunalgoat13 has made the advancement [We Need to Go Deeper]
+[20:56:59] [Server thread/INFO]: Comunalgoat13 has made the advancement [Incendium]
+[20:56:59] [Server thread/INFO]: [Comunalgoat13: Teleported Comunalgoat13 to joseperez2]
+[20:57:00] [Server thread/INFO]: Comunalgoat13 has made the advancement [The Dust Settles]
+[20:57:00] [Server thread/INFO]: Comunalgoat13 has made the advancement [Strange Biomes]
+[20:57:07] [Async Chat Thread - #10/INFO]: [Not Secure] ୰ Comunalgoat13 > vaya que bonito
+[20:57:27] [Async Chat Thread - #11/INFO]: [Not Secure] ୰ Sarh_a180_23 > que cosa
+[20:57:32] [Async Chat Thread - #10/INFO]: [Not Secure] ୰ Comunalgoat13 > el nether
+[20:57:34] [Async Chat Thread - #10/INFO]: [Not Secure] ୰ Sarh_a180_23 > las praderas de cuarzo?
+[20:57:51] [Tuinity Chunk System Worker #0/ERROR]: Hanging entity at invalid position: BlockPosition{x=372, y=120, z=-264}
+[20:58:02] [Async Chat Thread - #11/INFO]: [Not Secure] ֎ Itenns > llegue :V
+[20:58:10] [Server thread/INFO]: Comunalgoat13 issued server command: /tp joseperez2
+[20:58:10] [Server thread/INFO]: [Comunalgoat13: Teleported Comunalgoat13 to joseperez2]
+[20:58:23] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[20:58:23] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[20:58:30] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[20:58:30] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[20:59:08] [Server thread/INFO]: Comunalgoat13 has made the advancement [Hellish Paradise]
+[20:59:09] [Tuinity Chunk System Worker #0/ERROR]: Hanging entity at invalid position: BlockPosition{x=372, y=120, z=-264}
+[20:59:13] [Tuinity Chunk System Worker #0/ERROR]: Hanging entity at invalid position: BlockPosition{x=-229, y=-45, z=70}
+[20:59:13] [Tuinity Chunk System Worker #0/ERROR]: Hanging entity at invalid position: BlockPosition{x=-227, y=-45, z=71}
+[20:59:13] [Tuinity Chunk System Worker #0/ERROR]: Hanging entity at invalid position: BlockPosition{x=-228, y=-45, z=72}
+[20:59:13] [Tuinity Chunk System Worker #0/ERROR]: Hanging entity at invalid position: BlockPosition{x=-228, y=-45, z=69}
+[20:59:15] [Tuinity Chunk System Worker #0/ERROR]: Hanging entity at invalid position: BlockPosition{x=-68, y=-51, z=53}
+[20:59:16] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[20:59:16] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[20:59:17] [Tuinity Chunk System Worker #0/ERROR]: Hanging entity at invalid position: BlockPosition{x=-68, y=-51, z=70}
+[20:59:19] [Server thread/INFO]: Sarh_a180_23 has made the advancement [The Floor is Tears]
+[20:59:23] [Tuinity Chunk System Worker #0/ERROR]: Hanging entity at invalid position: BlockPosition{x=-195, y=-53, z=95}
+[20:59:23] [Tuinity Chunk System Worker #0/ERROR]: Hanging entity at invalid position: BlockPosition{x=-48, y=-51, z=121}
+[20:59:23] [Tuinity Chunk System Worker #0/ERROR]: Hanging entity at invalid position: BlockPosition{x=-197, y=-53, z=89}
+[20:59:23] [Tuinity Chunk System Worker #0/ERROR]: Hanging entity at invalid position: BlockPosition{x=-48, y=-51, z=112}
+[20:59:23] [Tuinity Chunk System Worker #0/ERROR]: Hanging entity at invalid position: BlockPosition{x=-187, y=-54, z=56}
+[20:59:26] [Tuinity Chunk System Worker #0/ERROR]: Hanging entity at invalid position: BlockPosition{x=-44, y=-51, z=121}
+[20:59:26] [Tuinity Chunk System Worker #0/ERROR]: Hanging entity at invalid position: BlockPosition{x=-40, y=-51, z=121}
+[20:59:26] [Tuinity Chunk System Worker #0/ERROR]: Hanging entity at invalid position: BlockPosition{x=-44, y=-51, z=112}
+[20:59:26] [Tuinity Chunk System Worker #0/ERROR]: Hanging entity at invalid position: BlockPosition{x=-40, y=-51, z=112}
+[20:59:35] [Server thread/INFO]: Comunalgoat13 issued server command: /tp Itenns
+[20:59:36] [Server thread/INFO]: [Comunalgoat13: Teleported Comunalgoat13 to Itenns]
+[20:59:39] [Server thread/INFO]: Comunalgoat13 has made the advancement [A Seedy Place]

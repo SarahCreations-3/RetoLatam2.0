@@ -4921,3 +4921,24 @@
 [2024-12-18 20:47:58] [INFO   ] Calculated structure at -257,123 
 [2024-12-18 20:48:34] [INFO   ] Large Cave at 1344,22,320 has water level > -5 with populator MushroomCavePopulator 
 [2024-12-18 20:48:34] [INFO   ] Calculated structure at 64,10 
+[2024-12-18 20:49:51] [INFO   ] Generating org.terraform.structure.villagehouse.VillageHousePopulator at chunk: -236,148 
+[2024-12-18 20:49:51] [INFO   ] Spawning farmhouse at -3776,74,2368 with rotation of WEST 
+[2024-12-18 20:50:26] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -230,146 
+[2024-12-18 20:50:26] [INFO   ] Spawning Underground Dungeon at -3678,28,2350 
+[2024-12-18 20:51:28] [INFO   ] Large Cave at -3776,23,2880 has water level > -5 with populator MushroomCavePopulator 
+[2024-12-18 20:51:28] [INFO   ] Calculated structure at -234,160 
+[2024-12-18 20:53:24] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -236,180 
+[2024-12-18 20:54:03] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -237,196 
+[2024-12-18 20:54:03] [INFO   ] Spawning Underground Dungeon at -3787,38,3136 
+[2024-12-18 20:55:06] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -237,210 
+[2024-12-18 20:55:06] [INFO   ] Spawning Underground Dungeon at -3782,24,3366 
+[2024-12-18 20:55:15] [INFO   ] Generating org.terraform.structure.catacombs.CatacombsPopulator at chunk: -236,212 
+[2024-12-18 20:55:15] [INFO   ] Spawning catacombs at: -3776,3392 
+[2024-12-18 20:55:15] [INFO   ] TW MinY: 0, Rolling chance: 4000 
+[2024-12-18 20:55:16] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsSkeletonDungeonPopulator at -3782 20 3370 in a room of size 9x9 
+[2024-12-18 20:55:16] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsSkeletonDungeonPopulator at -3793 20 3399 in a room of size 8x9 
+[2024-12-18 20:55:16] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsCasketRoomPopulator at -3780 20 3393 in a room of size 8x7 
+[2024-12-18 20:55:16] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsCasketRoomPopulator at -3759 20 3385 in a room of size 10x7 
+[2024-12-18 20:55:16] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsPillarRoomPopulator at -3777 20 3382 in a room of size 8x7 
+[2024-12-18 20:55:16] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsCasketRoomPopulator at -3797 20 3412 in a room of size 8x10 
+[2024-12-18 20:55:16] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsStandardPopulator at -3778 20 3403 in a room of size 9x10 
