@@ -55,6 +55,12 @@ Inventories:
       name: '%name%'
       lore:
       - '%lore%'
+    '13':
+      type: history;3
+      item: PAPER
+      name: '%name%'
+      lore:
+      - '%lore%'
     '39':
       item: BARRIER
       name: '&c&lRegresar'

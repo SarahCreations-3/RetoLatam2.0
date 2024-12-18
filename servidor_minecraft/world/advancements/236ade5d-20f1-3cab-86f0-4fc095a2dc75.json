@@ -1036,6 +1036,7 @@
       "minecraft:skeleton": "2024-12-17 02:16:54 +0000",
       "minecraft:magma_cube": "2024-12-18 20:54:01 +0000",
       "minecraft:spider": "2024-12-17 02:29:24 +0000",
+      "minecraft:piglin_brute": "2024-12-18 21:01:46 +0000",
       "minecraft:creeper": "2024-12-17 02:20:52 +0000",
       "minecraft:phantom": "2024-12-17 20:54:44 +0000",
       "minecraft:witch": "2024-12-18 19:37:59 +0000",
@@ -2184,74 +2185,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 20:54:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:09:27 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 20:54:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:09:27 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 20:54:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:09:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2024-12-18 20:54:38 +0000",
-      "log_spam_fixer": "2024-12-18 20:54:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:09:27 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 20:54:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:09:27 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 20:54:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:09:27 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 20:54:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:09:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 20:54:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:09:27 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 20:54:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:09:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 20:54:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:09:27 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 20:54:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:09:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 20:54:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:09:27 +0000"
     },
     "done": false
   },
@@ -2261,9 +2261,34 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-18 21:07:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-18 20:59:07 +0000",
+      "minecraft:warped_forest": "2024-12-18 20:59:42 +0000"
+    },
+    "done": false
+  },
   "incendium:root": {
     "criteria": {
       "requirement": "2024-12-18 20:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-18 21:07:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-18 21:01:05 +0000"
     },
     "done": true
   },
@@ -2273,9 +2298,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-18 21:01:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2024-12-18 20:43:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-18 21:01:05 +0000"
     },
     "done": true
   },
@@ -2291,15 +2328,34 @@
     },
     "done": true
   },
+  "stellarity:nether/a_piece_of_otherworld": {
+    "criteria": {
+      "criteria": "2024-12-18 20:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-18 21:00:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2024-12-18 20:43:32 +0000"
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-18 21:00:06 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:ash_barrens": "2024-12-18 20:52:50 +0000"
+      "incendium:ash_barrens": "2024-12-18 20:52:50 +0000",
+      "incendium:inverted_forest": "2024-12-18 20:59:32 +0000"
     },
     "done": false
   },

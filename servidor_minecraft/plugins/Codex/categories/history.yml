@@ -1,18 +1,18 @@
 name: "&c&lWorld &7&lHistory"
 discover_title:
-  title: "&2&lCapitulo 2"
-  subtitle: "&a¿Dónde estan todos?"
+  title: "&2&lCapitulo 3"
+  subtitle: "&aTenemos que ir mas profundo"
   fade_in: 20
   stay: 60
   fade_out: 20
 discover_message:
 - "{centered}&f&m00                                                 00"
 - " "
-- "{centered}&2&lCapitulo 2"
-- "{centered}&a¿Dónde estan todos?"
+- "{centered}&2&lCapitulo 3"
+- "{centered}&aTenemos que ir mas profundo"
 - "{centered}&6&lUsa /codex para ver la historia del servidor"
 - " "
-- "{centered}&e&lLa aventura continua"
+- "{centered}&e&lLas dificultades aumentan"
 - " "
 - "{centered}&f&m00                                                 00"
 discover_sound:
@@ -34,3 +34,9 @@ discoveries:
     - "&ba preguntar, ¿Dónde estan todos? la aventura continua y tu y tus aliados deben "
     - "&bencontrar la respuesta a esa pregunta, porque el pueblo donde despertaste esta"
     - "&bsolo..."
+  3:
+    name: "&3&lCapitulo 3"
+    lore:
+    - "&bDespues de analizar la soledad de el overworld decides investigar un poco mas profundo"
+    - "&bte diriges al inframundo un lugar donde posiblemente encuentres respuestas a lo que esta"
+    - "&bsucediendo y el porque todo el mundo esta tan pero tan solo..."

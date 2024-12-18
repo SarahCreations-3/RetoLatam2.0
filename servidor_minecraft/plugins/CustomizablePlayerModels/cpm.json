@@ -1,7 +1,10 @@
 {
   "skins": {
     "180e43ea-7bdf-3837-8381-a01a433c062c": {},
-    "991faab2-537e-3a9d-953c-ca6316bec317": {},
+    "991faab2-537e-3a9d-953c-ca6316bec317": {
+      "model": "nutriQ\u003d\u003d",
+      "forced": false
+    },
     "236ade5d-20f1-3cab-86f0-4fc095a2dc75": {},
     "b38a85f7-abe1-3459-ac53-a225db05b713": {},
     "423a6e28-ef50-39ec-9675-28852248862b": {},
@@ -13,7 +16,8 @@
   },
   "player_scaling": {
     "180e43ea-7bdf-3837-8381-a01a433c062c": {},
-    "4c25892a-34fd-3f22-9777-9f41de7282c2": {}
+    "4c25892a-34fd-3f22-9777-9f41de7282c2": {},
+    "991faab2-537e-3a9d-953c-ca6316bec317": {}
   },
   "enableInvisibleGlow": false
 }
