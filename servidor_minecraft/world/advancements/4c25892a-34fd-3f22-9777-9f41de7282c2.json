@@ -1138,10 +1138,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-17 02:17:28 +0000",
+      "minecraft:ghast": "2024-12-18 21:38:18 +0000",
+      "minecraft:magma_cube": "2024-12-18 21:32:08 +0000",
       "minecraft:spider": "2024-12-17 02:17:51 +0000",
       "minecraft:creeper": "2024-12-17 02:15:13 +0000",
       "minecraft:slime": "2024-12-18 02:21:41 +0000",
       "minecraft:wither_skeleton": "2024-12-17 02:18:06 +0000",
+      "minecraft:piglin": "2024-12-18 21:32:54 +0000",
       "minecraft:enderman": "2024-12-17 02:24:07 +0000",
       "minecraft:zombie": "2024-12-17 02:17:55 +0000",
       "minecraft:drowned": "2024-12-18 20:33:02 +0000",
@@ -1969,75 +1972,81 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 21:25:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:40:27 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 21:25:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:40:27 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 21:25:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:40:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 21:25:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:40:27 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 21:25:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:40:27 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 21:25:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:40:27 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 21:25:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:40:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 21:25:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:40:27 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 21:25:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:40:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 21:25:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:40:27 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 21:25:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:40:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 21:25:27 +0000"
+      "log_spam_fixer": "2024-12-18 21:40:27 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-18 21:33:01 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
@@ -2063,6 +2072,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-18 21:39:33 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2024-12-18 21:27:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2024-12-18 21:08:17 +0000"
@@ -2072,6 +2093,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-18 21:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-18 21:27:00 +0000"
     },
     "done": true
   },
@@ -2087,6 +2114,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-18 21:39:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2024-12-18 21:12:03 +0000"
@@ -2096,6 +2129,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-18 21:12:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-18 21:38:07 +0000"
     },
     "done": true
   },
@@ -2177,6 +2216,12 @@
     },
     "done": true
   },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2024-12-18 21:38:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-18 21:12:03 +0000"
@@ -2195,6 +2240,18 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-18 21:27:00 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:ash_barrens": "2024-12-18 21:27:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2024-12-18 21:08:17 +0000"
@@ -2204,6 +2261,12 @@
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-18 21:12:03 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2024-12-18 21:38:10 +0000"
     },
     "done": true
   },
@@ -2219,6 +2282,13 @@
     },
     "done": true
   },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:ash_barrens": "2024-12-18 21:27:00 +0000",
+      "incendium:quartz_flats": "2024-12-18 21:38:10 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2024-12-18 21:12:03 +0000"
@@ -2228,6 +2298,24 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2024-12-18 21:04:08 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2024-12-18 21:27:00 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/ghast_buster": {
+    "criteria": {
+      "kill_ghast": "2024-12-18 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-18 21:40:27 +0000"
     },
     "done": true
   },

@@ -1078,3 +1078,77 @@ java.lang.IllegalStateException: VillagerAcquireTradeEvent may only be triggered
 [21:30:04] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
 [21:30:05] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
 [21:30:05] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[21:36:22] [Server thread/WARN]: Sis moved too quickly! -6.890036018523915,-1.2315237975870161,-8.444591027573452
+[21:36:31] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[21:36:32] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[21:36:47] [Server thread/INFO]: Comunalgoat13 issued server command: /tp Itenns
+[21:36:47] [Server thread/INFO]: [Comunalgoat13: Teleported Comunalgoat13 to Itenns]
+[21:37:06] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[21:37:06] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[21:37:09] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:37:09] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:37:14] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:37:14] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:37:17] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:37:17] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:37:17] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:37:17] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:37:18] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:37:18] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:37:20] [Async Chat Thread - #37/INFO]: [Not Secure] ୰ Comunalgoat13 > v
+[21:37:29] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:37:29] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:37:30] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:37:30] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:37:31] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:37:31] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:37:32] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:37:32] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:37:33] [Async Chat Thread - #38/INFO]: [Not Secure] ୰ Comunalgoat13 > v
+[21:37:34] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:37:34] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:37:35] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:37:35] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:37:37] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:37:37] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:37:38] [Async Chat Thread - #37/INFO]: [Not Secure] ୰ Comunalgoat13 > v
+[21:37:41] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:37:41] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:37:41] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:37:41] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:37:45] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:37:45] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:37:47] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:37:47] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:37:48] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:37:48] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:37:54] [Server thread/INFO]: Comunalgoat13 issued server command: /tp Sarh_a180_23
+[21:37:54] [Server thread/INFO]: [Comunalgoat13: Teleported Comunalgoat13 to Sarh_a180_23]
+[21:38:07] [Server thread/INFO]: Itenns has made the advancement [Take Aim]
+[21:38:07] [Server thread/INFO]: Comunalgoat13 issued server command: /tp Sis
+[21:38:07] [Server thread/INFO]: [Comunalgoat13: Teleported Comunalgoat13 to Sis]
+[21:38:10] [Server thread/INFO]: Itenns has made the advancement [Hellish Paradise]
+[21:38:14] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode spectator
+[21:38:14] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Spectator Mode]
+[21:38:20] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[21:38:20] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[21:38:23] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[21:38:23] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[21:38:26] [Server thread/INFO]: Itenns has made the advancement [The Floor is Tears]
+[21:38:27] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[21:38:27] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[21:38:46] [Server thread/INFO]: Itenns has reached the goal [Ghast Buster]
+[21:38:55] [Server thread/INFO]: Comunalgoat13 issued server command: /tp Itenns
+[21:38:55] [Server thread/INFO]: [Comunalgoat13: Teleported Comunalgoat13 to Itenns]
+[21:39:13] [Server thread/INFO]: Comunalgoat13 has made the advancement [The Floor is Tears]
+[21:39:29] [Server thread/INFO]: Comunalgoat13 has reached the goal [A Piece of Otherworld]
+[21:39:35] [Server thread/INFO]: Comunalgoat13 issued server command: /tp 0 100 0
+[21:39:35] [Server thread/INFO]: [Comunalgoat13: Teleported Comunalgoat13 to 0.500000, 100.000000, 0.500000]
+[21:40:15] [Async Chat Thread - #39/INFO]: [Not Secure] ୰ Comunalgoat13 > Sarh_a180_23 ven
+[21:40:15] [Server thread/INFO]: Sis lost connection: Disconnected
+[21:40:20] [Async Chat Thread - #40/INFO]: [Not Secure] ୰ Comunalgoat13 > ta todo raro aca
+[21:40:24] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[21:40:24] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[21:40:30] [Async Chat Thread - #39/INFO]: [Not Secure] ୰ Comunalgoat13 > ta al reves
+[21:40:33] [Async Chat Thread - #40/INFO]: [Not Secure] ୰ Sarh_a180_23 > es el warped forest invertido
+[21:40:34] [Async Chat Thread - #40/INFO]: [Not Secure] ୰ Comunalgoat13 > todo
