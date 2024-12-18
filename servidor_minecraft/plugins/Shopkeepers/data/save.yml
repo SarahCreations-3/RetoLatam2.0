@@ -178,7 +178,7 @@ data-version: 3|2|3465
         meta:
           ==: ItemMeta
           meta-type: TILE_ENTITY
-          internal: H4sIAAAAAAAA/+NiYOBi4HPKyU/Ods0rySypDElMZ2ZgrGQAAg4GpswUBtHczLzU5KLEtBKr4ozSnOzUovik/AqgmiqQGiBdwQAGAO6ltGtKAAAA
+          internal: H4sIAAAAAAAA/+NiYOBi4HPKyU/Ods0rySypDElMZ2ZgrGAAAg4GpswUBtHczLzU5KLEtBKr4ozSnOzUovik/AqgmiqQGiBdyQAGAMld/QdKAAAA
           blockMaterial: SHULKER_BOX
       item1:
         ==: org.bukkit.inventory.ItemStack

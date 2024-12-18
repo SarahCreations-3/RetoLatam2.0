@@ -20,7 +20,7 @@ StartWithoutSleep: false
 
 #Messages
 SleepInfo: "&aSleep > &7%percent% (%count%) out of a minimum of 25% sleeping."
-NightSkip: "&aSleep > &7At least 25% of online users sleeping (%count%), skipping the night."
+NightSkip: "&6&lReto Latam 2.0 > &7Al menos el 25% de los jugadores online estan durmiendo (%count%), saltando la noche."
 Ignored: "&cSleep > &7You are still being ignored for sleep calculations!"
 VoteTitle: "&aSleep > &7Vote below on skipping the night:"
 VoteYes: "&a&lYes"

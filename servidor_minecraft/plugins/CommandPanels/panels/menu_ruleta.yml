@@ -147,7 +147,7 @@ panels:
   misionesdiarias:
     perm: default
     rows: '5'
-    title: '&1       ҂'
+    title: '&9       ҂'
     empty: AIR
     item:
       '0':
@@ -174,14 +174,14 @@ panels:
         material: blue_stained_glass_pane
       '11':
         material: flower_banner_pattern
-        name: '&3&lMisión:'
+        name: '&3&lMisión 1:'
         lore:
           - '&bLa misión del dia es craftear una armadura full hierro'
       '12':
         material: blue_stained_glass_pane
       '13':
         material: flower_banner_pattern
-        name: '&3&lMisión:'
+        name: '&3&lMisión 2:'
         lore:
           - >-
             &bLa misión del dia es construir una base que sera de vital
