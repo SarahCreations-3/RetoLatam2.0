@@ -4942,3 +4942,5 @@
 [2024-12-18 20:55:16] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsPillarRoomPopulator at -3777 20 3382 in a room of size 8x7 
 [2024-12-18 20:55:16] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsCasketRoomPopulator at -3797 20 3412 in a room of size 8x10 
 [2024-12-18 20:55:16] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsStandardPopulator at -3778 20 3403 in a room of size 9x10 
+[2024-12-18 21:24:31] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 78,26 
+[2024-12-18 21:24:31] [INFO   ] Spawning Underground Dungeon at 1260,105,426 
