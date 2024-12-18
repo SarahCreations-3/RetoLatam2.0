@@ -1,0 +1,267 @@
+panels:
+  menu_ruleta:
+    perm: default
+    rows: '6'
+    title: "\u3201\u3201&f\u3200"
+    empty: AIR
+    item:
+      '12':
+        material: blaze_rod
+        customdata: '8'
+        name: '&1&lCrafteos'
+        lore:
+          - '&9Da clic para ver los crafteos'
+      '14':
+        material: blaze_rod
+        customdata: '8'
+        name: '&2&lNotificaciones'
+        lore:
+          - '&aDa clic para ver las notificaciones'
+      '29':
+        material: blaze_rod
+        customdata: '8'
+        name: '&4&lCambios de Dificultad'
+        lore:
+          - '&5Da clic para ver los cambios de dificultad'
+        commands:
+          - cp cambiosdedificultad
+      '31':
+        material: blaze_rod
+        customdata: '8'
+      '33':
+        material: blaze_rod
+        customdata: '8'
+        name: '&5&lMisiones Secundarias'
+        lore:
+          - '&dDa clic para ver las misiones secundarias'
+      '48':
+        material: blaze_rod
+        customdata: '8'
+        name: '&6&lEnciclopedia'
+        lore:
+          - '&eDa clic para ver la enciclopedia'
+      '50':
+        material: blaze_rod
+        customdata: '8'
+        name: '&3&lMisiones Diarias'
+        lore:
+          - '&bDa clic para ver las misiones diarias'
+        commands:
+          - cp misionesdiarias
+    open-with-item:
+      stationary: '17'
+      material: blaze_rod
+      name: '&2&lMenu'
+      customdata: '1'
+      lore:
+        - '&aDa clic para abrir el menu'
+    commands-on-open:
+      - 'playsound retolatam2.0:abrirmenu player @s'
+    commands-on-close:
+      - 'playsound retolatam2.0:cerrarmenu player @s'
+  cambiosdedificultad:
+    perm: default
+    rows: '5'
+    title: '&4       ҂'
+    empty: red_stained_glass_pane
+    item:
+      '0':
+        material: red_stained_glass_pane
+      '1':
+        material: orange_stained_glass_pane
+      '3':
+        material: orange_stained_glass_pane
+      '5':
+        material: orange_stained_glass_pane
+      '7':
+        material: orange_stained_glass_pane
+      '8':
+        material: red_stained_glass_pane
+      '9':
+        material: orange_stained_glass_pane
+      '11':
+        material: skull_banner_pattern
+        name: '&4&lCambio:'
+        lore:
+          - >-
+            &5Ningun admin puede hacer tp a los jugadores a menos que se deba a
+            un bug
+      '13':
+        material: skull_banner_pattern
+        name: '&4&lCambio:'
+        lore:
+          - >-
+            &5Ahora todos los creepers que spawneen naturalmente seran creepers
+            electricos
+      '15':
+        material: skull_banner_pattern
+        name: '&4&lAun nada'
+      '17':
+        material: orange_stained_glass_pane
+      '19':
+        material: orange_stained_glass_pane
+      '21':
+        material: skull_banner_pattern
+        name: '&4&lAun nada'
+      '22':
+        material: orange_stained_glass_pane
+      '23':
+        material: skull_banner_pattern
+        name: '&4&lAun nada'
+      '25':
+        material: orange_stained_glass_pane
+      '27':
+        material: orange_stained_glass_pane
+      '29':
+        material: skull_banner_pattern
+        name: '&4&lAun nada'
+      '31':
+        material: skull_banner_pattern
+        name: '&4&lAun nada'
+      '33':
+        material: skull_banner_pattern
+        name: '&4&lAun nada'
+      '35':
+        material: orange_stained_glass_pane
+      '36':
+        material: red_stained_glass_pane
+      '37':
+        material: orange_stained_glass_pane
+      '39':
+        material: orange_stained_glass_pane
+      '40':
+        material: barrier
+        name: '&4&lRegresar'
+        lore:
+          - '&5Regresa al menu anterior'
+        commands:
+          - open= menu_ruleta
+      '41':
+        material: orange_stained_glass_pane
+      '43':
+        material: orange_stained_glass_pane
+      '44':
+        material: red_stained_glass_pane
+    commands-on-open:
+      - 'playsound retolatam2.0:abrirmenu player @s'
+  misionesdiarias:
+    perm: default
+    rows: '5'
+    title: '&1       ҂'
+    empty: AIR
+    item:
+      '0':
+        material: blue_stained_glass_pane
+      '1':
+        material: light_blue_stained_glass_pane
+      '2':
+        material: blue_stained_glass_pane
+      '3':
+        material: light_blue_stained_glass_pane
+      '4':
+        material: blue_stained_glass_pane
+      '5':
+        material: light_blue_stained_glass_pane
+      '6':
+        material: blue_stained_glass_pane
+      '7':
+        material: light_blue_stained_glass_pane
+      '8':
+        material: blue_stained_glass_pane
+      '9':
+        material: light_blue_stained_glass_pane
+      '10':
+        material: blue_stained_glass_pane
+      '11':
+        material: flower_banner_pattern
+        name: '&3&lMisión:'
+        lore:
+          - '&bLa misión del dia es craftear una armadura full hierro'
+      '12':
+        material: blue_stained_glass_pane
+      '13':
+        material: flower_banner_pattern
+        name: '&3&lMisión:'
+        lore:
+          - >-
+            &bLa misión del dia es construir una base que sera de vital
+            importancia para su supervivencia
+      '14':
+        material: blue_stained_glass_pane
+      '15':
+        material: flower_banner_pattern
+        name: '&3&lAun nada'
+      '16':
+        material: blue_stained_glass_pane
+      '17':
+        material: light_blue_stained_glass_pane
+      '18':
+        material: blue_stained_glass_pane
+      '19':
+        material: light_blue_stained_glass_pane
+      '20':
+        material: blue_stained_glass_pane
+      '21':
+        material: flower_banner_pattern
+        name: '&3&lAun nada'
+      '22':
+        material: blue_stained_glass_pane
+      '23':
+        material: flower_banner_pattern
+        name: '&3&lAun nada'
+      '24':
+        material: blue_stained_glass_pane
+      '25':
+        material: light_blue_stained_glass_pane
+      '26':
+        material: blue_stained_glass_pane
+      '27':
+        material: light_blue_stained_glass_pane
+      '28':
+        material: blue_stained_glass_pane
+      '29':
+        material: flower_banner_pattern
+        name: '&3&lAun nada'
+      '30':
+        material: blue_stained_glass_pane
+      '31':
+        material: flower_banner_pattern
+        name: '&3&lAun nada'
+      '32':
+        material: blue_stained_glass_pane
+      '33':
+        material: flower_banner_pattern
+        name: '&3&lAun nada'
+      '34':
+        material: blue_stained_glass_pane
+      '35':
+        material: light_blue_stained_glass_pane
+      '36':
+        material: blue_stained_glass_pane
+      '37':
+        material: light_blue_stained_glass_pane
+      '38':
+        material: blue_stained_glass_pane
+      '39':
+        material: light_blue_stained_glass_pane
+      '40':
+        material: barrier
+        name: '&4&lRegresar'
+        lore:
+          - '&5Regresa al menu anterior'
+        commands:
+          - open= menu_ruleta
+      '41':
+        material: light_blue_stained_glass_pane
+      '42':
+        material: blue_stained_glass_pane
+      '43':
+        material: light_blue_stained_glass_pane
+      '44':
+        material: blue_stained_glass_pane
+      '48':
+        material: blue_stained_glass_pane
+      '50':
+        material: blue_stained_glass_pane
+    commands-on-open:
+      - 'playsound retolatam2.0:abrirmenu player @s'

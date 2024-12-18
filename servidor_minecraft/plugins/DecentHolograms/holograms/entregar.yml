@@ -1,0 +1,14 @@
+location: world:19.449:48.000:0.559
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&2&lMisión Diaria'
+    height: 0.3
+  - content: '&a Entrega la misión diaria aqui'
+    height: 0.3
+  actions: {}

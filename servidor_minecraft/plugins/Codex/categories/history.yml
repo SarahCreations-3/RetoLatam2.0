@@ -1,0 +1,36 @@
+name: "&c&lWorld &7&lHistory"
+discover_title:
+  title: "&2&lCapitulo 2"
+  subtitle: "&a¿Dónde estan todos?"
+  fade_in: 20
+  stay: 60
+  fade_out: 20
+discover_message:
+- "{centered}&f&m00                                                 00"
+- " "
+- "{centered}&2&lCapitulo 2"
+- "{centered}&a¿Dónde estan todos?"
+- "{centered}&6&lUsa /codex para ver la historia del servidor"
+- " "
+- "{centered}&e&lLa aventura continua"
+- " "
+- "{centered}&f&m00                                                 00"
+discover_sound:
+  name: BLOCK_GILDED_BLACKSTONE_STEP
+  volume: 10
+  pitch: 0.1
+discoveries:
+  1:
+    name: "&3&lCapitulo 1"
+    lore:
+    - "&bDespues de un misterioso acontecimiento que hizo a la ruleta enloquecer"
+    - "&bel mundo y todo lo que habia en el cambio por completo ahora tu estas aqui"
+    - "&btu misión es descubrir que paso y donde estas, no sera un camino facil pero"
+    - "&bte deseo suerte..."
+  2:
+    name: "&3&lCapitulo 2"
+    lore:
+    - "&bDespues de haber llegado a un extraño lugar donde todo es diferente te comienzas"
+    - "&ba preguntar, ¿Dónde estan todos? la aventura continua y tu y tus aliados deben "
+    - "&bencontrar la respuesta a esa pregunta, porque el pueblo donde despertaste esta"
+    - "&bsolo..."

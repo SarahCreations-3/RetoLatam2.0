@@ -1,0 +1,5 @@
+name: joseperez2
+events:
+  misionarmadura:
+    one_time: true
+    cooldown: 0

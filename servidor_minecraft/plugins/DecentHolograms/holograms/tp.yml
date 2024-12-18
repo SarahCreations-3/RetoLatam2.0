@@ -1,0 +1,14 @@
+location: world:0.501:38.200:-17.075
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&6&lAgachate sobre el bloque cafe'
+    height: 0.3
+  - content: '&epara ser teletransportado'
+    height: 0.3
+  actions: {}

@@ -1,0 +1,14 @@
+location: world:0.624:48.000:-17.451
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&6&lSala de Tradeos'
+    height: 0.3
+  - content: '&eIntercambia tus recompensas'
+    height: 0.3
+  actions: {}

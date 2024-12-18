@@ -1,0 +1,5 @@
+name: Sarh_a180_23
+events:
+  misionarmadura:
+    one_time: true
+    cooldown: 0

@@ -1,0 +1,123 @@
+Events:
+  boton:
+    type: block_interact
+    enabled: false
+    conditions:
+    - '%block% == STONE_BUTTON or %block% == OAK_BUTTON or %block% == ACACIA_BUTTON
+      or %block% == BAMBOO_BUTTON or %block% == BIRCH_BUTTON or %block% == CHERRY_BUTTON
+      or %block% == CRIMSON_BUTTON or %block% == JUNGLE_BUTTON or %block% == LEGACY_STONE_BUTTON
+      or %block% == DARK_OAK_BUTTON or %block% == MANGROVE_BUTTON or %block% == POLISHED_BLACKSTONE_BUTTON
+      or %block% == SPRUCE_BUTTON or %block% == WARPED_BUTTON'
+    - '%action_type% == RIGHT_CLICK'
+    actions:
+      default:
+      - 'damage: 9999999'
+  spawnchargedcreeper:
+    enabled: false
+    type: entity_spawn
+    conditions:
+    - '%entity% == CREEPER'
+    - '%reason% == NATURAL'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'console_command: summon creeper %entity_x% %entity_y% %entity_z% {powered:1}'
+  falldamage:
+    enabled: false
+    type: player_damage
+    conditions:
+    - '%cause% == LAVA or %cause% == FALL'
+    actions:
+      default:
+      - 'set_damage: 300%'
+  lavapurificadora:
+    enabled: false
+    type: repetitive
+    repetitive_time: 10
+    conditions:
+    - '%playerblock_inside% == LAVA'
+    actions:
+      default:
+      - 'remove_potion_effect: FIRE_RESISTANCE'
+  puerta:
+    type: block_interact
+    enabled: false
+    conditions:
+    - '%block% == OAK_DOOR or %block% == ACACIA_DOOR or %block% == BAMBOO_DOOR or
+      %block% == BIRCH_DOOR or %block% == CHERRY_DOOR or %block% == CRIMSON_DOOR or
+      %block% == JUNGLE_DOOR or %block% == LEGACY_MOUSE_BUTTON or %block% == DARK_OAK_DOOR
+      or %block% == MANGROVE_DOOR or %block% == POLISHED_BLACKSTONE_BOOM or %block%
+      == SPRUCE_DOOR or %block% == WARPED_DOOR'
+    - '%action_type% == RIGHT_CLICK'
+    actions:
+      default:
+      - 'damage: 9999999'
+  FuegoInfinito:
+    type: player_damage
+    conditions:
+    - '%cause% contains FIRE'
+    actions:
+      default:
+      - 'set_on_fire: 1200'
+    enabled: false
+  SolQuemaSinBloqueador:
+    type: repetitive
+    repetitive_time: 20
+    conditions:
+    - '%player_world% == world'
+    - '%world_time_{player_world}% >= 0'
+    - '%world_time_{player_world}% <= 12000'
+    - '%player_is_outside% == true'
+    actions:
+      default:
+      - 'set_on_fire: 1200'
+    enabled: false
+  TotemProbabilidadMomentoReviil:
+    type: custom
+    custom_event_data:
+      event: org.bukkit.event.entity.EntityResurrectEvent
+      player_variable: getEntity()
+      variables_to_capture:
+      - '%totem%;isCancelled()'
+    conditions:
+    - '%totem% == false'
+    - '%random_1_10% <= 1'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'to_all: message: &4&lEl totem de&5&l %player% &4&lha fallado y ha muerto!!'
+    enabled: false
+  zombiex3:
+    type: player_damage
+    enabled: false
+    conditions:
+    - '%cause% == ENTITY_ATTACK'
+    - '%damager_type% == ZOMBIE'
+    actions:
+      default:
+      - 'set_damage: 300%'
+  araña:
+    type: player_damage
+    enabled: false
+    conditions:
+    - '%cause% == ENTITY_ATTACK'
+    - '%damager_type% == SPIDER'
+    actions:
+      default:
+      - 'set_block: location:%player_x%,%player_y%,%player_z%,%player_world%;id:COBWEB'
+  telarana:
+    type: block_break
+    enabled: false
+    conditions:
+    - '%block% == COBWEB'
+    actions:
+      default:
+      - 'summon: location:%block_x%,%block_y%,%block_z%,%block_world%;entity:CAVE_SPIDER;amount:1'
+  phantoms_blindness:
+    type: player_damage
+    enabled: false
+    conditions:
+    - '%damager_type% == PHANTOM'
+    actions:
+      default:
+      - 'console_command: effect give @s minecraft:blindness 15 2 true'

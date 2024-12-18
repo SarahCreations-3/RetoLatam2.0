@@ -1,0 +1,48 @@
+###########################################################################################################################################################################
+###################################  TradeManager Plugin By (CantBeJohn) | for permissions, please refer to the official post.  ################################
+###########################################################################################################################################################################
+
+# Format: ITEM:AMOUNT->ITEM:AMOUNT->ITEM:AMOUNT->Stock Amount (Max Uses)->Cooldown (Seconds, this is optional)->Trade Exp
+Villager-Trade-Stock: # Example (This makes Mending books have 3 stock with a 1 minute cooldown that gives 2 experience): EMPTY_SLOT->EMPTY_SLOT->MENDING{1}->3->60->2
+  Farmer:
+    Overrides: &id001 []
+    Remove-Vanilla-Enchantments: false # By setting this to true, it will remove all Enchanted Books / Enchanted Items from Vanilla Trades.
+  Librarian:
+    Overrides: *id001
+    Remove-Vanilla-Enchantments: false
+  Cartographer:
+    Overrides: *id001
+    Remove-Vanilla-Enchantments: false
+  Cleric:
+    Overrides: *id001
+    Remove-Vanilla-Enchantments: false
+  Armorer:
+    Overrides: *id001
+    Remove-Vanilla-Enchantments: false
+  Weaponsmith:
+    Overrides: *id001
+    Remove-Vanilla-Enchantments: false
+  Toolsmith:
+    Overrides: *id001
+    Remove-Vanilla-Enchantments: false
+  Butcher:
+    Overrides: *id001
+    Remove-Vanilla-Enchantments: false
+  Leatherworker:
+    Overrides: *id001
+    Remove-Vanilla-Enchantments: false
+  Mason:
+    Overrides: *id001
+    Remove-Vanilla-Enchantments: false
+  Fisherman:
+    Overrides: *id001
+    Remove-Vanilla-Enchantments: false
+  Shepherd:
+    Overrides: *id001
+    Remove-Vanilla-Enchantments: false
+  Fletcher:
+    Overrides: *id001
+    Remove-Vanilla-Enchantments: false
+  Wandering-Trader:
+    Overrides: *id001
+    Remove-Vanilla-Enchantments: false

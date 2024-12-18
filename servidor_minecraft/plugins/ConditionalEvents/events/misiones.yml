@@ -1,0 +1,66 @@
+Events:
+  misionarmadura:
+    type: item_craft
+    enabled: true
+    one_time: false
+    conditions:
+    - '%item% == IRON_HELMET execute casco'
+    - '%item% == IRON_CHESTPLATE execute peto'
+    - '%item% == IRON_LEGGINGS execute pantalones'
+    - '%item% == IRON_BOOTS execute botas'
+    actions:
+      casco:
+      - 'console_command: svar set ironhelmet 1 %player%'
+      - 'playsound_resource_pack: retolatam2.0:recompensa;8;1'
+      peto:
+      - 'console_command: svar set ironchestplate 1 %player%'
+      - 'playsound_resource_pack: retolatam2.0:recompensa;8;1'
+      pantalones:
+      - 'console_command: svar set ironleggins 1 %player%'
+      - 'playsound_resource_pack: retolatam2.0:recompensa;8;1'
+      botas:
+      - 'console_command: svar set ironboots 1 %player%'
+      - 'playsound_resource_pack: retolatam2.0:recompensa;8;1'
+      - 'give_item: id:IRON_NUGGET;amount:1;custom_model_data:2;name:&3&lDedita misión diaria;lore:&bCanjea esta dedita en el spawn para recibir tu recompensa;'
+  misionarmaduraentrega:
+    type: block_interact
+    enabled: false
+    conditions:
+    - '%block_x% == 34'
+    - '%block_y% == 47'
+    - '%block_z% == 0'
+    - '%block_world% == world'
+    - '%block% == BARRIER'
+    - '%action_type% == RIGHT_CLICK'
+    - '%item% == IRON_NUGGET'
+    - '%item_custom_model_data% == 2'
+    - '%servervariables_value_otherplayer_{player}:ironhelmet% == 1'
+    - '%servervariables_value_otherplayer_{player}:ironchestplate% == 1'
+    - '%servervariables_value_otherplayer_{player}:ironleggins% == 1'
+    - '%servervariables_value_otherplayer_{player}:ironboots% == 1'
+    actions:
+      default:
+      - "remove_item: IRON_NUGGET;1;name: Dedita misión diaria"
+      - "playsound_resource_pack: retolatam2.0:entregarmision;8;1"
+      - "wait: 5"
+      - "to_all: message: &3&l%player% &b&lha entregado la misión diaria"
+      - "give_item: id:IRON_NUGGET;amount:5;custom_model_data:3;name:&1&lDedita;lore:&9Usa esta dedita para canjear increibles recompensas;"
+  misionbase:
+    type: block_interact
+    enabled: true
+    conditions:
+    - '%block_x% == 34'
+    - '%block_y% == 47'
+    - '%block_z% == 0'
+    - '%block_world% == world'
+    - '%block% == BARRIER'
+    - '%action_type% == RIGHT_CLICK'
+    - '%item% == IRON_NUGGET'
+    - '%item_custom_model_data% == 2'
+    actions:
+      default:
+      - "remove_item: IRON_NUGGET;1;name: Dedita misión diaria"
+      - "playsound_resource_pack: retolatam2.0:entregarmision;8;1"
+      - "wait: 5"
+      - "to_all: message: &3&l%player% &b&lha entregado la misión diaria"
+      - "give_item: id:IRON_NUGGET;amount:5;custom_model_data:3;name:&1&lDedita;lore:&9Usa esta dedita para canjear increibles recompensas;"

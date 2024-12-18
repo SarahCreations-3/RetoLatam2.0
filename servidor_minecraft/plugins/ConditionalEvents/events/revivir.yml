@@ -1,0 +1,26 @@
+Events:
+  fogata_click:
+    type: custom
+    custom_event_data:
+      event: org.bukkit.event.player.PlayerInteractEntityEvent
+      player_variable: getPlayer()
+      variables_to_capture:
+        - '%golem_tags%;getRightClicked().getScoreboardTags()'
+    conditions:
+      - '%golem_tags% contains fogata_h'
+    actions:
+      default:
+        - 'cancel_event: true'
+        - 'console_command: cpanel itssos %player% '
+  revivir_entrar:
+    type: player_join
+    conditions:
+    - '%player_gamemode% == SPECTATOR'
+    actions:
+      default:
+      - 'to_all: message: &b&l%player% &l&3ha resusitado de entre los muertos.'
+      - 'console_command: tp %player% @e[tag=fogata_h,limit=1]'
+      - 'wait: 4'
+      - 'console_command: tp %player% 0 37 0'
+      - 'wait: 2'
+      - 'gamemode: SURVIVAL'

@@ -1,0 +1,10 @@
+Events:
+  kille:
+    type: player_command
+    conditions:
+    - '%main_command% startsWith /kill'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'message: &4&lNo sucedera otra vez'
+    enabled: true

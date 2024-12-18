@@ -1,0 +1,5 @@
+name: Comunalgoat13
+events:
+  misionarmadura:
+    one_time: true
+    cooldown: 0

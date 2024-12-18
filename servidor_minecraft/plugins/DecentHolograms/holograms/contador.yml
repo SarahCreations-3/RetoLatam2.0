@@ -1,0 +1,14 @@
+location: world:0.365:62.368:0.462
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&4&lTiempo restante para el proximo evento'
+    height: 0.3
+  - content: '&6??:??:??'
+    height: 0.3
+  actions: {}

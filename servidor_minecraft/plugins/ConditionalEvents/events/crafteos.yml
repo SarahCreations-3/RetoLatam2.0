@@ -1,0 +1,109 @@
+Events:
+  bloquear_crafteo_bloqueDeCobre:
+    type: item_craft
+    conditions:
+    - '%item% == COOPER_BLOCK'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'call_event: acionesDeBloqueoItem'
+    enabled: true
+  bloquear_crafteo_picoDeDiamante:
+    type: item_craft
+    conditions:
+    - '%item% == DIAMOND_PICKAXE'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'call_event: acionesDeBloqueoItem'
+    enabled: false
+  bloquear_crafteo_hachadeDiamante:
+    type: item_craft
+    conditions:
+    - '%item% == DIAMOND_AXE'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'call_event: acionesDeBloqueoItem'
+    enabled: false
+  bloquear_crafteo_palaDeDiamante:
+    type: item_craft
+    conditions:
+    - '%item% == DIAMOND_SHOVEL'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'call_event: acionesDeBloqueoItem'
+    enabled: false
+  bloquear_crafteo_azadaDeDiamante:
+    type: item_craft
+    conditions:
+    - '%item% == DIAMOND_HOE'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'call_event: acionesDeBloqueoItem'
+    enabled: false
+  bloquear_crafteo_cascoDeDiamante:
+    type: item_craft
+    conditions:
+    - '%item% == DIAMOND_HELMET'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'call_event: acionesDeBloqueoItem'
+    enabled: false
+  bloquear_crafteo_pecheraDeDiamante:
+    type: item_craft
+    conditions:
+    - '%item% == DIAMOND_CHESTPLATE'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'call_event: acionesDeBloqueoItem'
+    enabled: false
+  bloquear_crafteo_pantalonDeDiamante:
+    type: item_craft
+    conditions:
+    - '%item% == DIAMOND_LEGGINGS'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'call_event: acionesDeBloqueoItem'
+    enabled: false
+  bloquear_crafteo_botasDeDiamante:
+    type: item_craft
+    conditions:
+    - '%item% == DIAMOND_BOOTS'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'call_event: acionesDeBloqueoItem'
+    enabled: false
+  bloquear_crafteo_bloqueDeDiamante:
+    type: item_craft
+    conditions:
+    - '%item% == DIAMOND_BLOCK'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'call_event: acionesDeBloqueoItem'
+    enabled: false
+  bloquear_crafteo_diamante:
+    type: item_craft
+    conditions:
+    - '%item% == DIAMOND'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'call_event: acionesDeBloqueoItem'
+    enabled: false
+  acionesDeBloqueoItem:
+    type: call
+    actions:
+      default:
+      - 'title: 10;30;10;&l&cItem bloqueado;&7¡No puedes craftear este item!'
+      - 'give_potion_effect: BLINDNESS;40;1;false'
+      - 'playsound: BLOCK_BELL_USE;10;0'
+      - 'wait_ticks: 1'
+      - close_inventory

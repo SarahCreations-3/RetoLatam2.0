@@ -1,0 +1,622 @@
+# This file is not intended to be manually modified! If you want to manually edit this file anyways, ensure that the server is not running currently and that you have prepared a backup of this file.
+
+data-version: 3|2|3465
+'1':
+  uniqueId: 01b85eda-6030-4e83-8e4c-4f44f2c95b54
+  world: world
+  x: -3
+  y: 36
+  z: -23
+  yaw: 302.16977
+  type: admin
+  name: ''
+  object:
+    type: axolotl
+    baby: false
+    axolotlVariant: LUCY
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: WRITABLE_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK
+          pages:
+          - "si se encontraron a \npepito les regalo 1 pene\nen su casita atentamente\
+            \ \n\n\n\nCOMUNALMIOTAS"
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: POTATO
+  snapshots: []
+'18':
+  uniqueId: 4466165f-635a-4ec9-b58a-79c7cadcbb51
+  world: world
+  x: -3
+  y: 47
+  z: -36
+  yaw: 226.89331
+  type: admin
+  name: SHULKERS
+  object:
+    type: bee
+    baby: true
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: YELLOW_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        amount: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_blue","text":"Dedita"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Usa
+            esta dedita para canjear increibles recompensas"}],"text":""}'
+          custom-model-data: 3
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ORANGE_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        amount: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_blue","text":"Dedita"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Usa
+            esta dedita para canjear increibles recompensas"}],"text":""}'
+          custom-model-data: 3
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: RED_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        amount: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_blue","text":"Dedita"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Usa
+            esta dedita para canjear increibles recompensas"}],"text":""}'
+          custom-model-data: 3
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: BROWN_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        amount: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_blue","text":"Dedita"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Usa
+            esta dedita para canjear increibles recompensas"}],"text":""}'
+          custom-model-data: 3
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: BLACK_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        amount: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_blue","text":"Dedita"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Usa
+            esta dedita para canjear increibles recompensas"}],"text":""}'
+          custom-model-data: 3
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GRAY_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        amount: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_blue","text":"Dedita"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Usa
+            esta dedita para canjear increibles recompensas"}],"text":""}'
+          custom-model-data: 3
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: LIGHT_GRAY_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        amount: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_blue","text":"Dedita"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Usa
+            esta dedita para canjear increibles recompensas"}],"text":""}'
+          custom-model-data: 3
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: SHULKER_BOX
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAA/+NiYOBi4HPKyU/Ods0rySypDElMZ2ZgrGQAAg4GpswUBtHczLzU5KLEtBKr4ozSnOzUovik/AqgmiqQGiBdwQAGAO6ltGtKAAAA
+          blockMaterial: SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        amount: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_blue","text":"Dedita"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Usa
+            esta dedita para canjear increibles recompensas"}],"text":""}'
+          custom-model-data: 3
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: WHITE_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        amount: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_blue","text":"Dedita"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Usa
+            esta dedita para canjear increibles recompensas"}],"text":""}'
+          custom-model-data: 3
+  snapshots: []
+'19':
+  uniqueId: ce870b78-e802-4760-b18d-4ff3ed54b7f9
+  world: world
+  x: -4
+  y: 47
+  z: -32
+  yaw: 78.45658
+  type: admin
+  name: PROXIMO
+  object:
+    type: bee
+    baby: true
+  recipes: {}
+  snapshots: []
+'20':
+  uniqueId: 106de90f-a346-4ac7-938a-aaf648a284cb
+  world: world
+  x: -3
+  y: 47
+  z: -30
+  yaw: 90.560844
+  type: admin
+  name: PROXIMO
+  object:
+    type: bee
+    baby: true
+  recipes: {}
+  snapshots: []
+'25':
+  uniqueId: ba961473-1e5a-4a37-a304-d9e434a1c45c
+  world: world
+  x: -4
+  y: 47
+  z: -38
+  yaw: 266.79633
+  type: admin
+  name: DEDITAS
+  object:
+    type: bee
+    baby: true
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Dedita
+            Naranja"}],"text":""}'
+          custom-model-data: 1
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_blue","text":"Dedita"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Usa
+            esta dedita para canjear increibles recompensas"}],"text":""}'
+          custom-model-data: 3
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_blue","text":"Dedita"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Usa
+            esta dedita para canjear increibles recompensas"}],"text":""}'
+          custom-model-data: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Dedita
+            Naranja"}],"text":""}'
+          custom-model-data: 1
+  snapshots: []
+'26':
+  uniqueId: fdc2ce90-4ade-4c0b-97a7-f23a626873be
+  world: world
+  x: -3
+  y: 47
+  z: -34
+  yaw: 4.3272896
+  type: admin
+  name: COMIDA
+  object:
+    type: bee
+    baby: true
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLDEN_APPLE
+        amount: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_blue","text":"Dedita"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Usala
+            para canjear recompensas!"}],"text":""}'
+          custom-model-data: 3
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ENCHANTED_GOLDEN_APPLE
+        amount: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_blue","text":"Dedita"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Usala
+            para canjear recompensas!"}],"text":""}'
+          custom-model-data: 3
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Dedita
+            Naranja"}],"text":""}'
+          custom-model-data: 1
+  snapshots: []
+'28':
+  uniqueId: d96bf4dd-542c-46bc-a874-a13833c297b6
+  world: world
+  x: -3
+  y: 47
+  z: -40
+  yaw: 57.341896
+  type: admin
+  name: TOTEMS
+  object:
+    type: bee
+    baby: true
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TOTEM_OF_UNDYING
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_blue","text":"Dedita"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Usa
+            esta dedita para canjear increibles recompensas"}],"text":""}'
+          custom-model-data: 3
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TOTEM_OF_UNDYING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '[{"text":"Totem Nutria","color":"yellow","italic":false}]'
+          lore:
+          - '"PTO QUIEN LEE"'
+          custom-model-data: 1
+          attribute-modifiers:
+            GENERIC_MAX_HEALTH:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 4.0
+              name: generic.max_health
+              slot: OFF_HAND
+              uuid: 00000001-0000-0001-0000-000100000001
+              operation: 0
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TOTEM_OF_UNDYING
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Dedita
+            Naranja"}],"text":""}'
+          custom-model-data: 1
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TOTEM_OF_UNDYING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '[{"text":"Totem EonCueva","color":"yellow","italic":false}]'
+          lore:
+          - '"Posibilidad de vivir 100% "'
+          custom-model-data: 2
+          attribute-modifiers:
+            GENERIC_MAX_HEALTH:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 4.0
+              name: generic.max_health
+              slot: OFF_HAND
+              uuid: 00000001-0000-0001-0000-000100000002
+              operation: 0
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TOTEM_OF_UNDYING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '[{"text":"Totem Nutria","color":"yellow","italic":false}]'
+          lore:
+          - '"PTO QUIEN LEE"'
+          custom-model-data: 1
+          attribute-modifiers:
+            GENERIC_MAX_HEALTH:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 4.0
+              name: generic.max_health
+              slot: OFF_HAND
+              uuid: 00000001-0000-0001-0000-000100000001
+              operation: 0
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Dedita
+            Naranja"}],"text":""}'
+          custom-model-data: 1
+  snapshots: []
+'35':
+  uniqueId: 08455e87-a2ba-4621-8c32-eaaf1549e035
+  world: world
+  x: 5
+  y: 47
+  z: -36
+  yaw: 95.578636
+  type: admin
+  name: DESBUGEADORA
+  object:
+    type: bee
+    baby: true
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Dedita
+            Naranja"}],"text":""}'
+          custom-model-data: 1
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Dedita
+            Naranja"}],"text":""}'
+          custom-model-data: 1
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_blue","text":"Dedita"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Usala
+            para canjear recompensas!"}],"text":""}'
+          custom-model-data: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_blue","text":"Dedita"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Usala
+            para canjear recompensas!"}],"text":""}'
+          custom-model-data: 3
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TOTEM_OF_UNDYING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '[{"text":"Totem Nutria","color":"yellow","italic":false}]'
+          lore:
+          - '"PTO QUIEN LEE"'
+          custom-model-data: 1
+          attribute-modifiers:
+            GENERIC_MAX_HEALTH:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 4.0
+              name: generic.max_health
+              slot: OFF_HAND
+              uuid: 00000001-0000-0001-0000-000100000001
+              operation: 0
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TOTEM_OF_UNDYING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '[{"text":"Totem Nutria","color":"yellow","italic":false}]'
+          lore:
+          - '"PTO QUIEN LEE"'
+          custom-model-data: 1
+          attribute-modifiers:
+            GENERIC_MAX_HEALTH:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 4.0
+              name: generic.max_health
+              slot: OFF_HAND
+              uuid: 00000001-0000-0001-0000-000100000001
+              operation: 0
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TOTEM_OF_UNDYING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '[{"text":"Totem EonCueva","color":"yellow","italic":false}]'
+          lore:
+          - '"Posibilidad de vivir 100% "'
+          custom-model-data: 2
+          attribute-modifiers:
+            GENERIC_MAX_HEALTH:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 4.0
+              name: generic.max_health
+              slot: OFF_HAND
+              uuid: 00000001-0000-0001-0000-000100000002
+              operation: 0
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TOTEM_OF_UNDYING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '[{"text":"Totem EonCueva","color":"yellow","italic":false}]'
+          lore:
+          - '"Posibilidad de vivir 100% "'
+          custom-model-data: 2
+          attribute-modifiers:
+            GENERIC_MAX_HEALTH:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 4.0
+              name: generic.max_health
+              slot: OFF_HAND
+              uuid: 00000001-0000-0001-0000-000100000002
+              operation: 0
+  snapshots: []

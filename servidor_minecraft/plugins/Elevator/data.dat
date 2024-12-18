@@ -1,0 +1,85 @@
+Teleporters:
+  TP1:
+    X: -34.0
+    Y: 45.0
+    Z: -5.0
+    World: world
+    Player: 180e43ea-7bdf-3837-8381-a01a433c062c
+    Destination: TP2
+  TP2:
+    X: -9.0
+    Y: 59.0
+    Z: 8.0
+    World: world
+    Player: 180e43ea-7bdf-3837-8381-a01a433c062c
+    Destination: TP1
+  TP3:
+    X: -34.0
+    Y: 45.0
+    Z: 0.0
+    World: world
+    Player: 180e43ea-7bdf-3837-8381-a01a433c062c
+    Destination: TP4
+  TP4:
+    X: -41.0
+    Y: 74.0
+    Z: -5.0
+    World: world
+    Player: 180e43ea-7bdf-3837-8381-a01a433c062c
+    Destination: TP3
+  TP5:
+    X: 0.0
+    Y: 35.0
+    Z: 21.0
+    World: world
+    Player: 180e43ea-7bdf-3837-8381-a01a433c062c
+    Destination: TP6
+  TP6:
+    X: 11.0
+    Y: 48.0
+    Z: 10.0
+    World: world
+    Player: 180e43ea-7bdf-3837-8381-a01a433c062c
+    Destination: TP5
+  TP7:
+    X: -11.0
+    Y: 49.0
+    Z: 10.0
+    World: world
+    Player: 180e43ea-7bdf-3837-8381-a01a433c062c
+    Destination: TP8
+  TP8:
+    X: -21.0
+    Y: 35.0
+    Z: 0.0
+    World: world
+    Player: 180e43ea-7bdf-3837-8381-a01a433c062c
+    Destination: TP7
+  TP9:
+    X: -11.0
+    Y: 48.0
+    Z: -10.0
+    World: world
+    Player: 180e43ea-7bdf-3837-8381-a01a433c062c
+    Destination: TP10
+  TP10:
+    X: 0.0
+    Y: 35.0
+    Z: -21.0
+    World: world
+    Player: 180e43ea-7bdf-3837-8381-a01a433c062c
+    Destination: TP9
+  TP11:
+    X: 21.0
+    Y: 35.0
+    Z: 0.0
+    World: world
+    Player: 180e43ea-7bdf-3837-8381-a01a433c062c
+    Destination: TP12
+  TP12:
+    X: 10.0
+    Y: 49.0
+    Z: -10.0
+    World: world
+    Player: 180e43ea-7bdf-3837-8381-a01a433c062c
+    Destination: TP11

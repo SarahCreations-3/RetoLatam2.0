@@ -1,0 +1,14 @@
+location: world:0.498:48.000:19.537
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&3&lSala de Resurrección'
+    height: 0.3
+  - content: '&bTrae de vuelta a tus aliados'
+    height: 0.3
+  actions: {}

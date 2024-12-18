@@ -1,0 +1,21 @@
+location: world:0.552:40.000:4.561
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&6&lBienvenid@ a Reto Latam 2.0'
+    height: 0.3
+  - content: '&e&l¿Estas list@ para la aventura?'
+    height: 0.3
+  - content: '#ENTITY: BEE'
+    height: 0.7500000238418579
+    facing: 180.0
+  - content: '&6&lDirigete a algun tp dentro de esta sala'
+    height: 0.3
+  - content: '&e&lSuerte en tu aventura :D'
+    height: 0.3
+  actions: {}

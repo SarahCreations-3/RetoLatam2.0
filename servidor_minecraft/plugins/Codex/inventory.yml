@@ -1,0 +1,111 @@
+Inventories:
+  main:
+    slots: 45
+    title: '&6&lReto Latam 2.0&7» &eDescubrimiento'
+    '21':
+      type: history
+      item: BOOK
+      name: '&7Categoria: &6&lHistoria del servidor'
+      lore:
+      - '&eAqui encontraras la información detallada sobrela historia de Reto Latam 2.0.'
+      - ''
+      - '&7Desbloqueado: %unlocked% &8[%progress_bar%&8] &8(&7%percentage%&8)'
+      open_inventory: history_discoveries
+    '22':
+      type: regions
+      item: MAP
+      name: '&7Categoria: &6&lLugares'
+      lore:
+      - '&eLugares importantes que hayas visitado o visitaras'
+      - ''
+      - '&7Desbloqueado: %unlocked% &8[%progress_bar%&8] &8(&7%percentage%&8)'
+      open_inventory: 
+    '23':
+      type: monsters
+      item: IRON_SWORD
+      name: '&7Categoria: &6&lMonstruos'
+      lore:
+      - '&eInformación sobre los monstruos a los que enfrentes'
+      - ''
+      - '&7Desbloqueado: %unlocked% &8[%progress_bar%&8] &8(&7%percentage%&8)'
+      open_inventory: 
+    0;8;36;44:
+      item: YELLOW_STAINED_GLASS_PANE
+      name: ' '
+    1;7;9;17;27;35;37;43:
+      item: ORANGE_STAINED_GLASS_PANE
+      name: ' '
+    '40':
+      item: BARRIER
+      name: '&7Close'
+      open_inventory: close
+  history_discoveries:
+    slots: 45
+    title: '&7Categoria: &6&lHistoria del servidor'
+    '11':
+      type: history;1
+      item: PAPER
+      name: '%name%'
+      lore:
+      - '%lore%'
+      title: '&7Categoria: &6&lHistoria del servidor'
+    '12':
+      type: history;2
+      item: PAPER
+      name: '%name%'
+      lore:
+      - '%lore%'
+    '39':
+      item: BARRIER
+      name: '&c&lRegresar'
+      open_inventory: main
+    0;8;36;44:
+      item: YELLOW_STAINED_GLASS_PANE
+      name: ' '
+    1;7;9;17;27;35;37;43:
+      item: ORANGE_STAINED_GLASS_PANE
+      name: ' '
+  regions_discoveries:
+    slots: 45
+    title: '&4Codex &7» &8Regions'
+    '11':
+      type: regions;1
+      item: PAPER
+      name: '&6Discovery: %name%'
+      lore:
+      - '%lore%'
+    '12':
+      type: regions;2
+      item: PAPER
+      name: '&6Discovery: %name%'
+      lore:
+      - '%lore%'
+    '39':
+      skull_data: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdhZWU5YTc1YmYwZGY3ODk3MTgzMDE1Y2NhMGIyYTdkNzU1YzYzMzg4ZmYwMTc1MmQ1ZjQ0MTlmYzY0NSJ9fX0=
+      name: '&7Go Back'
+      open_inventory: main
+    0;8;36;44:
+      item: BLUE_STAINED_GLASS_PANE
+      name: ' '
+    1;7;9;17;27;35;37;43:
+      item: BLACK_STAINED_GLASS_PANE
+      name: ' '
+  monsters_discoveries:
+    slots: 45
+    title: '&4Codex &7» &8Monsters'
+    '11':
+      type: monsters;1
+      item: PAPER
+      name: '&6Discovery: %name%'
+      lore:
+      - '%lore%'
+    '39':
+      skull_data: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdhZWU5YTc1YmYwZGY3ODk3MTgzMDE1Y2NhMGIyYTdkNzU1YzYzMzg4ZmYwMTc1MmQ1ZjQ0MTlmYzY0NSJ9fX0=
+      name: '&7Go Back'
+      open_inventory: main
+    0;8;36;44:
+      item: BLUE_STAINED_GLASS_PANE
+      name: ' '
+    1;7;9;17;27;35;37;43:
+      item: BLACK_STAINED_GLASS_PANE
+      name: ' '
