@@ -906,3 +906,114 @@ java.lang.IllegalStateException: VillagerAcquireTradeEvent may only be triggered
 [21:09:46] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ Itenns > xd
 [21:09:49] [Server thread/INFO]: Sarh_a180_23 issued server command: /axinventoryrestore view
 [21:09:50] [Server thread/INFO]: Comunalgoat13 issued server command: /msg Sarh_a180_23 si me meto a forge con el custom player models me deja entrar y me ven como nutria?
+[21:10:14] [Server thread/INFO]: Sarh_a180_23 issued server command: /msg Comunalgoat13 me parece que si, pero se me a olvidado usarlo xd
+[21:10:18] [Async Chat Thread - #21/INFO]: [Not Secure] ֎ Itenns > e mier
+[21:10:31] [Server thread/INFO]: Sarh_a180_23 issued server command: /axinventoryrestore view Sarh_a180_23
+[21:10:34] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ Itenns > no desacomode
+[21:10:49] [Async Chat Thread - #21/INFO]: [Not Secure] ֎ Itenns > xd
+[21:11:06] [Server thread/INFO]: Sarh_a180_23 issued server command: /axinventoryrestore view Sarh_a180_23
+[21:11:52] [Async Chat Thread - #22/INFO]: [Not Secure] ୰ Comunalgoat13 > xD
+[21:11:54] [Server thread/INFO]: Comunalgoat13 lost connection: Disconnected
+[21:11:57] [Async Chat Thread - #23/INFO]: [Not Secure] ֎ Itenns > :V
+[21:13:34] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta roja Sarh_a180_23 title Por los proximos 5 minutos todo crimen y destrozo hacia otros jugadores estara permitido, el pvp tambien estará activo
+[21:13:34] [Server thread/INFO]: Added tag 'anim.ruleta.roja' to Sarh_a180_23
+[21:13:47] [Server thread/INFO]: Sarh_a180_23 issued server command: /simpletimer set
+[21:14:28] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta roja @a title Por los proximos 5 minutos todo crimen y destrozo hacia otros jugadores estara permitido, el pvp tambien estará activo
+[21:14:28] [Server thread/INFO]: Added tag 'anim.ruleta.roja' to 4 entities
+[21:14:38] [Server thread/INFO]: Sarh_a180_23 issued server command: /region info
+[21:14:40] [Server thread/INFO]: Sarh_a180_23 issued server command: /rg flags -w "world" __global__
+[21:14:42] [Server thread/INFO]: Sarh_a180_23 issued server command: /rg flag -w "world" -h 1 __global__ pvp 
+[21:14:43] [Async Chat Thread - #24/INFO]: [Not Secure] ֎ Itenns > xd
+[21:14:58] [Server thread/INFO]: Sarh_a180_23 issued server command: /simpletimer set 00:05:00 mmntor RED false
+[21:15:09] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[21:15:10] [Async Chat Thread - #25/INFO]: [Not Secure] ֎ joseperez2 > me vas a robar itenns?
+[21:15:24] [Async Chat Thread - #24/INFO]: [Not Secure] ֎ Itenns > no lo habia pensado
+[21:15:39] [Async Chat Thread - #25/INFO]: [Not Secure] ֎ Itenns > pero no :V
+[21:15:46] [Async Chat Thread - #25/INFO]: [Not Secure] ֎ joseperez2 > xd
+[21:15:47] [Server thread/INFO]: Sarh_a180_23 issued server command: /msg Sis Tu: Mi momento a llegado
+[21:15:55] [Server thread/WARN]: Boat (vehicle of Sis) moved wrongly! 0.5091173846214727
+[21:15:59] [Server thread/INFO]: Sarh_a180_23 issued server command: /mythicmobs mobs killall
+[21:16:09] [Async Chat Thread - #24/INFO]: [Not Secure] ֎ Itenns > xd
+[21:16:23] [Server thread/INFO]: Sarh_a180_23 issued server command: /region info
+[21:16:25] [Server thread/INFO]: Sarh_a180_23 issued server command: /rg flags -w "world" __global__
+[21:16:28] [Server thread/INFO]: Sarh_a180_23 issued server command: /rg flag -w "world" -h 1 __global__ pvp DENY
+[21:16:39] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[21:16:43] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[21:16:43] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[21:16:43] [User Authenticator #4/INFO]: UUID of player Comunalgoat13 is 991faab2-537e-3a9d-953c-ca6316bec317
+[21:16:43] [Server thread/INFO]: Comunalgoat13[/127.223.76.198:43333] logged in with entity id 24197 at ([world]-3715.019411446384, 66.5625, 3955.8447671181907)
+[21:16:47] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[21:16:47] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[21:17:03] [Server thread/INFO]: Sarh_a180_23 issued server command: /simpletimer remove mmntr
+[21:17:07] [Server thread/INFO]: Sarh_a180_23 issued server command: /simpletimer remove mmntor
+[21:17:15] [Async Chat Thread - #26/INFO]: [Not Secure] ୰ Comunalgoat13 > Itenns me ves como nutria?
+[21:17:22] [Server thread/INFO]: Comunalgoat13 issued server command: /tp Itenns
+[21:17:22] [Server thread/INFO]: [Comunalgoat13: Teleported Comunalgoat13 to Itenns]
+[21:17:31] [Async Chat Thread - #27/INFO]: [Not Secure] ֎ Itenns > si
+[21:17:40] [Async Chat Thread - #26/INFO]: [Not Secure] ֎ Itenns > pero una fea
+[21:17:47] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:17:47] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:17:47] [Async Chat Thread - #27/INFO]: [Not Secure] ֎ Itenns > o creo que es tu skin normal
+[21:17:47] [Async Chat Thread - #28/INFO]: [Not Secure] ୰ Comunalgoat13 > v
+[21:17:48] [Async Chat Thread - #27/INFO]: [Not Secure] ୰ Comunalgoat13 > v
+[21:17:49] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:17:49] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:17:49] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:17:49] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:17:50] [Server thread/INFO]: Sarh_a180_23 issued server command: /customizableplayermodels:cpm setskin Comunalgoat13
+[21:17:53] [Async Chat Thread - #28/INFO]: [Not Secure] ֎ Itenns > :V
+[21:17:56] [Async Chat Thread - #28/INFO]: [Not Secure] ֎ Itenns > xd
+[21:17:59] [Async Chat Thread - #27/INFO]: [Not Secure] ֎ Itenns > no
+[21:18:09] [Async Chat Thread - #27/INFO]: [Not Secure] ֎ Itenns > XD
+[21:18:15] [Server thread/INFO]: Sarh_a180_23 issued server command: /customizableplayermodels:cpm setskin Comunalgoat13 nutriachambeadora.cpm
+[21:18:15] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'customizableplayermodels:cpm' in plugin CustomizablePlayerModels v0.6.17a
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:987) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:64) ~[paper-1.20.1.jar:git-Paper-196]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265) ~[paper-1.20.1.jar:?]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:324) ~[?:?]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:308) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performChatCommand(ServerGamePacketListenerImpl.java:2354) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$21(ServerGamePacketListenerImpl.java:2314) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:59) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1338) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:197) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1315) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1308) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1286) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1174) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Illegal base64 character 2e
+	at java.util.Base64$Decoder.decode0(Base64.java:852) ~[?:?]
+	at java.util.Base64$Decoder.decode(Base64.java:570) ~[?:?]
+	at java.util.Base64$Decoder.decode(Base64.java:593) ~[?:?]
+	at com.tom.cpm.shared.config.PlayerData.setModel(PlayerData.java:48) ~[CustomPlayerModels-Bukkit-0.6.17a.jar:?]
+	at com.tom.cpm.shared.network.NetHandler.setSkin(NetHandler.java:223) ~[CustomPlayerModels-Bukkit-0.6.17a.jar:?]
+	at com.tom.cpm.shared.CommandCPM.executeSkinChange(CommandCPM.java:187) ~[CustomPlayerModels-Bukkit-0.6.17a.jar:?]
+	at com.tom.cpm.shared.CommandCPM.lambda$register$3(CommandCPM.java:58) ~[CustomPlayerModels-Bukkit-0.6.17a.jar:?]
+	at com.tom.cpl.command.StringCommandHandler$CommandImpl.execute(StringCommandHandler.java:173) ~[CustomPlayerModels-Bukkit-0.6.17a.jar:?]
+	at com.tom.cpm.bukkit.Commands$CommandHandler.onCommand(Commands.java:50) ~[CustomPlayerModels-Bukkit-0.6.17a.jar:?]
+	at com.tom.cpm.bukkit.CPMBukkitPlugin.onCommand(CPMBukkitPlugin.java:174) ~[CustomPlayerModels-Bukkit-0.6.17a.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	... 23 more
+[21:18:18] [Async Chat Thread - #27/INFO]: [Not Secure] ֎ Itenns > muy grande la nutria no?
+[21:18:47] [Server thread/INFO]: Comunalgoat13 issued server command: /tp Sarh_a180_23
+[21:18:47] [Server thread/INFO]: [Comunalgoat13: Teleported Comunalgoat13 to Sarh_a180_23]
+[21:18:51] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode spectator
+[21:18:51] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Spectator Mode]
+[21:18:59] [Server thread/INFO]: Comunalgoat13 issued server command: /tp Sarh_a180_23
+[21:18:59] [Server thread/INFO]: [Comunalgoat13: Teleported Comunalgoat13 to Sarh_a180_23]
+[21:19:11] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[21:19:11] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[21:19:32] [Server thread/INFO]: Comunalgoat13 issued server command: /tp joseperez2
+[21:19:32] [Server thread/INFO]: [Comunalgoat13: Teleported Comunalgoat13 to joseperez2]
+[21:19:44] [Async Chat Thread - #29/INFO]: [Not Secure] ֎ joseperez2 > quieto
