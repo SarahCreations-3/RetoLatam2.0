@@ -1401,3 +1401,231 @@ java.lang.IllegalStateException: VillagerAcquireTradeEvent may only be triggered
 [03:34:08] [Server thread/INFO]: [Sarh_a180_23: Summoned new Lightning Bolt]
 [03:34:08] [Server thread/INFO]: Sarh_a180_23 issued server command: /summon minecraft:lightning_bolt
 [03:34:08] [Server thread/INFO]: [Sarh_a180_23: Summoned new Lightning Bolt]
+[03:34:20] [Async Chat Thread - #18/INFO]: [Not Secure] ֎ toxno1 > VENNN
+[03:34:24] [Async Chat Thread - #16/INFO]: [Not Secure] ୰ Sarh_a180_23 > when popeas
+[03:34:27] [Async Chat Thread - #16/INFO]: [Not Secure] ୰ Sarh_a180_23 > :v
+[03:34:32] [Async Chat Thread - #16/INFO]: [Not Secure] ֎ TuxyFieldYT > PORQUÉ ME QUIERE HACER POPEAR QUE HICE YO??
+[03:34:33] [Async Chat Thread - #16/INFO]: [Not Secure] ֎ TuxyFieldYT > PORQUÉ ME QUIERE HACER POPEAR QUE HICE YO??
+[03:34:33] [Async Chat Thread - #16/INFO]: [Not Secure] ֎ toxno1 > todo por ti
+[03:34:34] [Async Chat Thread - #16/INFO]: [Not Secure] ֎ TuxyFieldYT > PORQUÉ ME QUIERE HACER POPEAR QUE HICE YO??
+[03:34:35] [Async Chat Thread - #16/INFO]: [Not Secure] ֎ toxno1 > deaaaa
+[03:34:39] [Async Chat Thread - #16/INFO]: [Not Secure] ୰ Sarh_a180_23 > tu nada
+[03:34:45] [Async Chat Thread - #16/INFO]: [Not Secure] ୰ Sarh_a180_23 > solo estas muy cerca TuxyFieldYT
+[03:34:51] [Server thread/INFO]: Comunalgoat13 issued server command: /msg Sarh_a180_23 sabes como poner murcielagos que aparescan arriba de dia y de noche?
+[03:34:58] [Async Chat Thread - #19/INFO]: [Not Secure] ֎ TuxyFieldYT > presa gratis
+[03:35:00] [Server thread/INFO]: Comunalgoat13 issued server command: /msg Sarh_a180_23 para cambio de dificultad
+[03:35:01] [Server thread/INFO]: Sarh_a180_23 issued server command: /msg Comunalgoat13 creo que si
+[03:35:02] [Async Chat Thread - #18/INFO]: [Not Secure] ֎ toxno1 > ven Sarh_a180_23
+[03:35:03] [Async Chat Thread - #18/INFO]: [Not Secure] ֎ TuxyFieldYT > Ovejita
+[03:35:04] [Async Chat Thread - #18/INFO]: [Not Secure] ֎ toxno1 > ANDALEEE
+[03:35:12] [Server thread/INFO]: Sarh_a180_23 issued server command: /kick toxno1 No quiero
+[03:35:12] [Server thread/INFO]: toxno1 lost connection: No quiero
+[03:35:12] [Server thread/INFO]: [Sarh_a180_23: Kicked toxno1: No quiero]
+[03:35:12] [Async Chat Thread - #18/ERROR]: Thread Async Chat Thread - #18 failed main thread check: Chunk getEntities call
+java.lang.Throwable: null
+	at org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:14) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.level.ServerLevel.getEntities(ServerLevel.java:2563) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.getEntity(ServerLevel.java:2027) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.getEntity(CraftServer.java:2668) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.entity.CraftPlayer.canSee(CraftPlayer.java:2087) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.sendPlayerChatMessage(ServerGamePacketListenerImpl.java:2784) ~[?:?]
+	at net.minecraft.network.chat.OutgoingChatMessage$Player.sendToPlayer(OutgoingChatMessage.java:48) ~[?:?]
+	at net.minecraft.server.level.ServerPlayer.sendChatMessage(ServerPlayer.java:2004) ~[?:?]
+	at io.papermc.paper.adventure.ChatProcessor$ViewersOutgoingChat.sendNative(ChatProcessor.java:348) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.adventure.ChatProcessor$ViewersOutgoingChat.broadcastToViewers(ChatProcessor.java:296) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.adventure.ChatProcessor$ViewersOutgoingChat.sendMessageChanged(ChatProcessor.java:285) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.adventure.ChatProcessor$OutgoingChat.sendFormatChangedViewerUnaware(ChatProcessor.java:250) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.adventure.ChatProcessor.complete(ChatProcessor.java:233) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.adventure.ChatProcessor.processModern(ChatProcessor.java:197) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.adventure.ChatProcessor.process(ChatProcessor.java:114) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.chat(ServerGamePacketListenerImpl.java:2459) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.broadcastChatMessage(ServerGamePacketListenerImpl.java:2588) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChat$18(ServerGamePacketListenerImpl.java:2288) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[03:35:12] [Async Chat Thread - #18/ERROR]: Chain link failed, continuing to next one
+java.lang.IllegalStateException: Asynchronous Chunk getEntities call!
+	at org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:15) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.level.ServerLevel.getEntities(ServerLevel.java:2563) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.getEntity(ServerLevel.java:2027) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.getEntity(CraftServer.java:2668) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.entity.CraftPlayer.canSee(CraftPlayer.java:2087) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.sendPlayerChatMessage(ServerGamePacketListenerImpl.java:2784) ~[?:?]
+	at net.minecraft.network.chat.OutgoingChatMessage$Player.sendToPlayer(OutgoingChatMessage.java:48) ~[?:?]
+	at net.minecraft.server.level.ServerPlayer.sendChatMessage(ServerPlayer.java:2004) ~[?:?]
+	at io.papermc.paper.adventure.ChatProcessor$ViewersOutgoingChat.sendNative(ChatProcessor.java:348) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.adventure.ChatProcessor$ViewersOutgoingChat.broadcastToViewers(ChatProcessor.java:296) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.adventure.ChatProcessor$ViewersOutgoingChat.sendMessageChanged(ChatProcessor.java:285) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.adventure.ChatProcessor$OutgoingChat.sendFormatChangedViewerUnaware(ChatProcessor.java:250) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.adventure.ChatProcessor.complete(ChatProcessor.java:233) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.adventure.ChatProcessor.processModern(ChatProcessor.java:197) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.adventure.ChatProcessor.process(ChatProcessor.java:114) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.chat(ServerGamePacketListenerImpl.java:2459) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.broadcastChatMessage(ServerGamePacketListenerImpl.java:2588) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChat$18(ServerGamePacketListenerImpl.java:2288) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[03:35:17] [User Authenticator #8/INFO]: UUID of player toxno1 is b38a85f7-abe1-3459-ac53-a225db05b713
+[03:35:18] [Server thread/INFO]: toxno1[/127.204.188.1:59693] logged in with entity id 25784 at ([world]-674.9088115835305, 77.5, 792.303439955146)
+[03:35:26] [Server thread/INFO]: Comunalgoat13 issued server command: /msg Sarh_a180_23 pos si si ponlo y ponle que te rebuelva en inv o que te quite una buena cantidad de daño al golpearte xD
+[03:35:31] [Server thread/INFO]: toxno1 lost connection: Disconnected
+[03:35:34] [User Authenticator #8/INFO]: UUID of player toxno1 is b38a85f7-abe1-3459-ac53-a225db05b713
+[03:35:34] [Server thread/INFO]: toxno1[/127.204.188.1:55311] logged in with entity id 25855 at ([world]-674.9088115835305, 77.5, 792.303439955146)
+[03:35:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /msg Comunalgoat13 va
+[03:35:51] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[03:35:51] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[03:35:51] [Server thread/INFO]: Comunalgoat13 has made the advancement [Surge Protector]
+[03:35:55] [Async Chat Thread - #19/INFO]: [Not Secure] ୰ Sarh_a180_23 > XD
+[03:35:58] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[03:35:58] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[03:36:00] [Async Chat Thread - #19/INFO]: [Not Secure] ୰ Sarh_a180_23 > Eso no fui yo
+[03:36:24] [Async Chat Thread - #19/INFO]: [Not Secure] ୰ Comunalgoat13 > denme un tur por su casita
+[03:36:27] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[03:36:27] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[03:36:30] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[03:36:30] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[03:36:31] [Async Chat Thread - #19/INFO]: [Not Secure] ֎ toxno1 > no quiero
+[03:36:33] [Async Chat Thread - #19/INFO]: [Not Secure] ֎ Itenns > me estan apareciendo mas diamantes y creo que comunal me quiere hacer un tiktok :V
+[03:36:36] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[03:36:36] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[03:36:38] [Async Chat Thread - #18/INFO]: [Not Secure] ֎ TuxyFieldYT > Izi no quiero que
+[03:36:42] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ toxno1 > hasta q Sarh_a180_23 acepte mi regalo
+[03:36:47] [Async Chat Thread - #20/INFO]: [Not Secure] ୰ Comunalgoat13 > pos noce xD
+[03:36:50] [Async Chat Thread - #20/INFO]: [Not Secure] ୰ Sarh_a180_23 > nosotros estamos en la base de los otros xd
+[03:36:55] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[03:36:55] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[03:36:58] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ TuxyFieldYT > Hora de jugar maikra
+[03:37:05] [Async Chat Thread - #19/INFO]: [Not Secure] ୰ Comunalgoat13 > xD
+[03:37:09] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ toxno1 > XD
+[03:37:22] [Async Chat Thread - #19/INFO]: [Not Secure] ֎ Itenns > esta permitido el xray :V?
+[03:37:26] [Async Chat Thread - #19/INFO]: [Not Secure] ୰ Comunalgoat13 > no xD
+[03:37:26] [Async Chat Thread - #19/INFO]: [Not Secure] ୰ Sarh_a180_23 > no
+[03:37:35] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[03:37:35] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[03:37:39] [Async Chat Thread - #19/INFO]: [Not Secure] ୰ Comunalgoat13 > y esta es la pc
+[03:37:49] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[03:37:49] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[03:37:56] [Async Chat Thread - #20/INFO]: [Not Secure] ୰ Sarh_a180_23 > en que launcher juegan
+[03:37:59] [Async Chat Thread - #20/INFO]: [Not Secure] ୰ Sarh_a180_23 > :p
+[03:38:04] [Async Chat Thread - #20/INFO]: [Not Secure] ୰ Comunalgoat13 > lunar :)
+[03:38:05] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ TuxyFieldYT > Tlauncher
+[03:38:05] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ toxno1 > batlion
+[03:38:21] [Async Chat Thread - #19/INFO]: [Not Secure] ֎ TuxyFieldYT > pete
+[03:38:24] [Async Chat Thread - #19/INFO]: [Not Secure] ֎ toxno1 > Sarh_a180_23 acepta el regalo y yaaaaaaaaaaaaaaaaaaaaaaaa
+[03:38:28] [Async Chat Thread - #19/INFO]: [Not Secure] ୰ Comunalgoat13 > xDD
+[03:38:33] [Async Chat Thread - #20/INFO]: [Not Secure] ୰ Sarh_a180_23 > que no mierda
+[03:38:35] [Server thread/INFO]: TuxyFieldYT has made the advancement [Hot Stuff]
+[03:38:36] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ Itenns > yo te acepto el regalo si ella no quiere
+[03:38:38] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ toxno1 > porq no?
+[03:38:41] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ toxno1 > q te hice
+[03:38:42] [Async Chat Thread - #20/INFO]: [Not Secure] ୰ Comunalgoat13 > yo tambien
+[03:38:51] [Async Chat Thread - #19/INFO]: [Not Secure] ୰ Sarh_a180_23 > existir :v
+[03:38:55] [Async Chat Thread - #19/INFO]: [Not Secure] ֎ toxno1 > activen el pvp
+[03:39:08] [Async Chat Thread - #20/INFO]: [Not Secure] ୰ Comunalgoat13 > TuxyFieldYT eres el gus?
+[03:39:14] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ TuxyFieldYT > No
+[03:39:19] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ toxno1 > 1v1 yo y TuxyFieldYT
+[03:39:19] [Async Chat Thread - #20/INFO]: [Not Secure] ୰ Comunalgoat13 > a pense que si xD
+[03:39:21] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ TuxyFieldYT > Soy tuxygamer2212
+[03:39:23] [Async Chat Thread - #19/INFO]: [Not Secure] ֎ toxno1 > 1v1 yo y TuxyFieldYT
+[03:39:29] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ TuxyFieldYT > VA
+[03:39:37] [Async Chat Thread - #19/INFO]: [Not Secure] ୰ Comunalgoat13 > el que aguante la cojida mas gana
+[03:39:40] [Server thread/INFO]: Sarh_a180_23 issued server command: /simpletimer set
+[03:39:44] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ TuxyFieldYT > TU CON ARMOR FULL ENCANTADA Y YO CON LAS BOLAS AL AIRE
+[03:39:51] [Async Chat Thread - #19/INFO]: [Not Secure] ֎ toxno1 > va
+[03:39:55] [Server thread/INFO]: TuxyFieldYT has made the advancement [Cover Me with Diamonds]
+[03:40:08] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ TuxyFieldYT > El primero que popee F
+[03:40:23] [Async Chat Thread - #19/INFO]: [Not Secure] ֎ Itenns > la mision de armor full diamond si estara algun dia? :V
+[03:40:29] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[03:40:32] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[03:40:34] [Server thread/INFO]: Villager EntityVillager['Villager'/17174, uuid='2b1c7c49-f09b-4d87-b1fb-01e58d1a214a', l='ServerLevel[world]', x=-666.34, y=75.00, z=881.24, cpos=[-42, 55], tl=47083, v=true] died, message: 'Villager was slain by Zombie'
+[03:40:42] [Async Chat Thread - #19/INFO]: [Not Secure] ୰ Comunalgoat13 > todavia ni esta xDDD
+[03:40:43] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta roja @a title por los proximos 5 minutos el pvp estara activado
+[03:40:43] [Server thread/INFO]: Added tag 'anim.ruleta.roja' to 5 entities
+[03:40:55] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ Itenns > algun dia estara xd?
+[03:40:56] [Async Chat Thread - #20/INFO]: [Not Secure] ୰ Comunalgoat13 > yy
+[03:40:59] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ Itenns > oh no hermano
+[03:41:09] [Async Chat Thread - #20/INFO]: [Not Secure] ୰ Comunalgoat13 > que me coman el pito
+[03:41:17] [Server thread/INFO]: Sarh_a180_23 issued server command: /region info
+[03:41:18] [Server thread/INFO]: Sarh_a180_23 issued server command: /rg flags -w "world" __global__
+[03:41:20] [Server thread/INFO]: Sarh_a180_23 issued server command: /rg flag -w "world" -h 1 __global__ pvp ALLOW
+[03:41:22] [Async Chat Thread - #19/INFO]: [Not Secure] ୰ Comunalgoat13 > aguas atras xD
+[03:41:22] [Server thread/INFO]: Sarh_a180_23 issued server command: /simpletimer set 00:05:00 pvp RED false
+[03:41:26] [Async Chat Thread - #19/INFO]: [Not Secure] ୰ Comunalgoat13 > diavlo
+[03:41:32] [Async Chat Thread - #19/INFO]: [Not Secure] ୰ Comunalgoat13 > se desata la gerra
+[03:41:35] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:41:44] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode survival
+[03:41:44] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Survival Mode]
+[03:42:07] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ TuxyFieldYT > Denle un totem a toxno
+[03:42:07] [Async Chat Thread - #20/INFO]: [Not Secure] ୰ Comunalgoat13 > putaaa
+[03:42:10] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[03:42:10] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[03:42:11] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[03:42:11] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[03:42:12] [Async Chat Thread - #21/INFO]: [Not Secure] ֎ toxno1 > otra
+[03:42:13] [Async Chat Thread - #21/INFO]: [Not Secure] ୰ Comunalgoat13 > te gane
+[03:42:17] [Async Chat Thread - #19/INFO]: [Not Secure] ֎ toxno1 > otra
+[03:42:17] [Async Chat Thread - #19/INFO]: [Not Secure] ୰ Comunalgoat13 > jijiji
+[03:42:20] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ TuxyFieldYT > Eu quiero pvp
+[03:42:23] [Async Chat Thread - #21/INFO]: [Not Secure] ֎ toxno1 > deja
+[03:42:24] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode survival
+[03:42:24] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Survival Mode]
+[03:42:25] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ TuxyFieldYT > Con toxno
+[03:42:26] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[03:42:26] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[03:42:26] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ toxno1 > activo algo
+[03:42:30] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:1}
+[03:42:30] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
+[03:42:32] [Async Chat Thread - #21/INFO]: [Not Secure] ୰ Comunalgoat13 > pera xD
+[03:42:34] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:2}
+[03:42:34] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
+[03:42:34] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode survival
+[03:42:34] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Survival Mode]
+[03:42:35] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:3}
+[03:42:35] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
+[03:42:37] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:4}
+[03:42:37] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
+[03:42:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:5}
+[03:42:39] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
+[03:42:41] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:6}
+[03:42:41] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
+[03:42:45] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ TuxyFieldYT > No vale espada de netherite
+[03:42:45] [Async Chat Thread - #21/INFO]: [Not Secure] ୰ Comunalgoat13 > dale 1
+[03:42:46] [Async Chat Thread - #19/INFO]: [Not Secure] ୰ Comunalgoat13 > 2
+[03:42:46] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ toxno1 > ya
+[03:42:48] [Async Chat Thread - #20/INFO]: [Not Secure] ୰ Comunalgoat13 > 3
+[03:42:49] [Async Chat Thread - #19/INFO]: [Not Secure] ୰ Comunalgoat13 > a xD
+[03:42:52] [Async Chat Thread - #20/INFO]: [Not Secure] ୰ Comunalgoat13 > bueno
+[03:42:53] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[03:42:53] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[03:42:57] [Async Chat Thread - #19/INFO]: [Not Secure] ୰ Comunalgoat13 > xD
+[03:43:01] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode survival
+[03:43:01] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Survival Mode]
+[03:43:04] [Server thread/INFO]: TuxyFieldYT has reached the goal [Postmortal]
+[03:43:21] [Server thread/INFO]: Sarh_a180_23 issued server command: /effect give Sarh_a180_23 minecraft:regeneration infinite 3
+[03:43:21] [Server thread/INFO]: [Sarh_a180_23: Applied effect Regeneration to Sarh_a180_23]
+[03:43:24] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode survival
+[03:43:24] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Survival Mode]
+[03:43:25] [Async Chat Thread - #20/INFO]: [Not Secure] ֎ TuxyFieldYT > Denme un totem yo no estaba listo
+[03:43:43] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[03:43:43] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[03:43:44] [Async Chat Thread - #19/INFO]: [Not Secure] ୰ Comunalgoat13 > xD
+[03:43:48] [Server thread/INFO]: Sarh_a180_23 issued server command: /enchant Sarh_a180_23 minecraft:loyalty 3
+[03:43:48] [Server thread/INFO]: [Sarh_a180_23: Applied enchantment Loyalty III to Sarh_a180_23's item]
+[03:43:53] [Async Chat Thread - #22/INFO]: [Not Secure] ୰ Comunalgoat13 > me avias dejado a medio
+[03:43:53] [Server thread/INFO]: Sarh_a180_23 has made the advancement [A Throwaway Joke]
+[03:43:55] [Async Chat Thread - #19/INFO]: [Not Secure] ֎ TuxyFieldYT > Denme un totem
+[03:44:01] [Async Chat Thread - #22/INFO]: [Not Secure] ֎ TuxyFieldYT > Quiero pvp con toxno1
+[03:44:09] [Async Chat Thread - #19/INFO]: [Not Secure] ֎ TuxyFieldYT > Y denme la misma armor y despues me la quitan
+[03:44:27] [Async Chat Thread - #22/INFO]: [Not Secure] ୰ Comunalgoat13 > tranqui no
+[03:44:34] [Async Chat Thread - #19/INFO]: [Not Secure] ୰ Comunalgoat13 > no se la robe
+[03:44:36] [Async Chat Thread - #19/INFO]: [Not Secure] ୰ Comunalgoat13 > vaya pue xD
+[03:44:40] [Async Chat Thread - #22/INFO]: [Not Secure] ֎ TuxyFieldYT > Con que espada voy a pelear si tiene como filo 30
+[03:44:48] [Async Chat Thread - #19/INFO]: [Not Secure] ୰ Comunalgoat13 > pasame tu espada
+[03:45:00] [Server thread/INFO]: Comunalgoat13 issued server command: /enchant Comunalgoat13 minecraft:sharpness 2
+[03:45:00] [Server thread/INFO]: [Comunalgoat13: Applied enchantment Sharpness II to Comunalgoat13's item]
