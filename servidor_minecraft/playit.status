@@ -1,39 +1,334 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1734476430261 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1734554082754 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734476433328 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734554085820 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734476436408 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734554088895 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734476439482 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734554091964 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734476442554 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734554095058 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734476445630 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734554098119 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734476448697 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734554101195 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734476451769 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734554104355 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554107414 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554110491 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554113569 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554116646 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554119707 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554122783 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554125858 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554128920 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554131991 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554135124 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554138243 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554141306 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554144367 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554147428 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554150495 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554153561 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554156655 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554159721 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554162785 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554165873 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554168937 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554172000 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554175058 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554178116 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554181177 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554184234 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554187291 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554190374 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554193441 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554196503 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554199573 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554202640 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554205711 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554208777 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554211845 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554214912 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554217979 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554221050 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554224107 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554227169 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554230289 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554233349 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554236418 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554239532 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554242593 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554245650 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554248733 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554251802 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554254868 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554257949 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554261007 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554264073 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554267153 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554270227 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554273286 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554276370 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554279436 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554282524 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+net-leslie.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734554285612 tunnel running, 1 tunnels registered
 
 
 TUNNELS

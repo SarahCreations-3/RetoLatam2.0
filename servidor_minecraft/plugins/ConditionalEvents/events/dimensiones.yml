@@ -7,6 +7,7 @@ Events:
       default:
       - 'cancel_event: true'
       - 'call_event: acionesDeBloqueoDimension'
+    enabled: false
   
   dimension_end:
     type: player_teleport

@@ -5,7 +5,7 @@
 General-Settings:
   OP-Bypass: true
   Reset-All-Trade-Stock-Timer:
-    Enabled: false
+    Enabled: true
     Interval: 1h
   Display-Disabled-Items-For-Traders:
     Enabled: true

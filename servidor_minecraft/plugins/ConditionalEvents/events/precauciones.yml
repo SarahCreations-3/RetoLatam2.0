@@ -7,4 +7,4 @@ Events:
       default:
       - 'cancel_event: true'
       - 'message: &4&lNo sucedera otra vez'
-    enabled: false
+    enabled: true

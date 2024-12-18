@@ -1,0 +1,15 @@
+allergicAmount: 5
+
+Message:
+  lowAllergic: "§cTe sientes un poco mal."
+  mediumAllergic: "§cParece que tu estomago no esta manejando esto muy bien."
+  highAllergic: "§cTe sientes extremadamente mal."
+
+# config.yml
+use-mysql: false  # 是否使用 MySQL，true 为启用，false 为使用本地文件存储
+mysql:
+  host: "localhost"
+  port: 3306
+  database: "food_allergy"
+  username: "root"
+  password: "password"
