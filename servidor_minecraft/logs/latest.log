@@ -1308,3 +1308,104 @@ java.lang.IllegalStateException: VillagerAcquireTradeEvent may only be triggered
 [21:49:41] [Server thread/INFO]: [Sarh_a180_23: Summoned new Warden]
 [21:49:46] [Server thread/INFO]: Sarh_a180_23 issued server command: /difficulty
 [21:50:30] [Server thread/INFO]: Itenns has made the advancement [Those Were the Days]
+[21:51:09] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[21:51:09] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[21:53:07] [Server thread/INFO]: Sarh_a180_23 issued server command: /summon minecraft:lightning_bolt
+[21:53:07] [Server thread/INFO]: [Sarh_a180_23: Summoned new Lightning Bolt]
+[21:53:10] [Server thread/INFO]: Comunalgoat13 issued server command: /tp Itenns
+[21:53:10] [Server thread/INFO]: [Comunalgoat13: Teleported Comunalgoat13 to Itenns]
+[21:53:34] [Async Chat Thread - #46/INFO]: [Not Secure] ୰ Comunalgoat13 > que esperas que te de?
+[21:53:43] [Async Chat Thread - #47/INFO]: [Not Secure] ֎ Itenns > ni idea
+[21:53:50] [Server thread/INFO]: Sarh_a180_23 issued server command: /msg Comunalgoat13 hay que asustar a Itenns tu construye el altar de herobrine y cuando pongas el fuego sumoneo un rayo
+[21:54:21] [Server thread/INFO]: Comunalgoat13 issued server command: /effect give Itenns minecraft:darkness infinite 20
+[21:54:21] [Server thread/INFO]: [Comunalgoat13: Applied effect Darkness to Itenns]
+[21:54:37] [Async Chat Thread - #46/INFO]: [Not Secure] ֎ Itenns > q fue
+[21:54:42] [Server thread/INFO]: Comunalgoat13 issued server command: /tp Itenns Comunalgoat13
+[21:54:42] [Server thread/INFO]: [Comunalgoat13: Teleported Itenns to Comunalgoat13]
+[21:54:44] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode spectator
+[21:54:44] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Spectator Mode]
+[21:54:45] [Async Chat Thread - #47/INFO]: [Not Secure] ֎ Itenns > :V
+[21:54:53] [Server thread/INFO]: Comunalgoat13 issued server command: /effect clear Itenns
+[21:54:53] [Server thread/INFO]: [Comunalgoat13: Removed every effect from Itenns]
+[21:54:58] [Async Chat Thread - #46/INFO]: [Not Secure] ֎ Itenns > ese webon xd
+[21:55:01] [Server thread/INFO]: Sarh_a180_23 issued server command: /summon minecraft:lightning_bolt
+[21:55:01] [Server thread/INFO]: [Sarh_a180_23: Summoned new Lightning Bolt]
+[21:55:16] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:55:16] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:55:18] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:55:18] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:55:22] [Server thread/INFO]: Sarh_a180_23 issued server command: /msg Comunalgoat13 xd
+[21:55:25] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:55:25] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:55:26] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:55:26] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:55:38] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[21:55:38] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[21:55:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[21:55:39] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[21:55:43] [Server thread/INFO]: Comunalgoat13 issued server command: /effect give Itenns minecraft:darkness infinite 20
+[21:55:43] [Server thread/INFO]: [Comunalgoat13: Applied effect Darkness to Itenns]
+[21:55:47] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:55:47] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:55:52] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[21:55:52] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[21:55:52] [Async Chat Thread - #47/INFO]: [Not Secure] ୰ Comunalgoat13 > v
+[21:55:52] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[21:55:52] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[21:55:59] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:55:59] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:56:01] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:56:01] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:56:04] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[21:56:04] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[21:56:05] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:56:05] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:56:05] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[21:56:05] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[21:56:06] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:56:06] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:56:24] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[21:56:24] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[21:56:33] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode spectator
+[21:56:33] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Spectator Mode]
+[21:56:40] [Server thread/INFO]: Comunalgoat13 issued server command: /msg Sarh_a180_23 tiene darcknees xD
+[21:56:44] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:56:44] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:56:49] [Server thread/INFO]: Comunalgoat13 issued server command: /effect clear Itenns
+[21:56:49] [Server thread/INFO]: [Comunalgoat13: Removed every effect from Itenns]
+[21:56:51] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:56:51] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:56:54] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[21:56:54] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[21:56:55] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[21:56:55] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[21:56:58] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[21:56:58] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[21:56:59] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[21:56:59] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[21:57:18] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:57:18] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:57:19] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:57:19] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:57:20] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:57:20] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:57:21] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:57:21] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:57:23] [Server thread/INFO]: Comunalgoat13 issued server command: /summon minecraft:lightning_bolt
+[21:57:23] [Server thread/INFO]: [Comunalgoat13: Summoned new Lightning Bolt]
+[21:58:00] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[21:58:00] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[21:58:19] [Server thread/INFO]: Comunalgoat13 issued server command: /msg Sarh_a180_23 que chingew asu madre se robo 2 veces el bloque de oro
+[21:58:25] [Async Chat Thread - #48/INFO]: [Not Secure] ֎ Itenns > mejor me regreso :v
+[21:58:26] [Server thread/INFO]: Comunalgoat13 issued server command: /invrestore view Itenns
+[21:58:26] [Server thread/INFO]: Sarh_a180_23 issued server command: /msg Comunalgoat13 XD
+[21:58:50] [Server thread/INFO]: Comunalgoat13 issued server command: /tp Itenns
+[21:58:50] [Server thread/INFO]: [Comunalgoat13: Teleported Comunalgoat13 to Itenns]
+[21:59:02] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta roja @a title Si no llega nadie se acaba retolatam
+[21:59:02] [Server thread/INFO]: Added tag 'anim.ruleta.roja' to 3 entities
+[21:59:05] [Server thread/INFO]: Comunalgoat13 issued server command: /invrestore view Itenns
+[21:59:15] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[21:59:16] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[21:59:33] [Async Chat Thread - #50/INFO]: [Not Secure] ֎ Itenns > como XD
+[22:00:40] [Server thread/INFO]: Sarh_a180_23 lost connection: Disconnected
+[22:01:00] [Server thread/INFO]: Comunalgoat13 issued server command: /ruleta
