@@ -3197,74 +3197,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 03:42:53 +0000"
+      "log_spam_fixer": "2024-12-18 03:52:53 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 03:42:53 +0000"
+      "log_spam_fixer": "2024-12-18 03:52:53 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 03:42:53 +0000"
+      "log_spam_fixer": "2024-12-18 03:52:53 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2024-12-18 03:43:12 +0000",
-      "log_spam_fixer": "2024-12-18 03:42:53 +0000"
+      "requirement": "2024-12-18 03:52:53 +0000",
+      "log_spam_fixer": "2024-12-18 03:52:53 +0000"
     },
     "done": true
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 03:42:53 +0000"
+      "log_spam_fixer": "2024-12-18 03:52:53 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 03:42:53 +0000"
+      "log_spam_fixer": "2024-12-18 03:52:53 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 03:42:53 +0000"
+      "log_spam_fixer": "2024-12-18 03:52:53 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 03:42:53 +0000"
+      "log_spam_fixer": "2024-12-18 03:52:53 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 03:42:53 +0000"
+      "log_spam_fixer": "2024-12-18 03:52:53 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 03:42:53 +0000"
+      "log_spam_fixer": "2024-12-18 03:52:53 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 03:42:53 +0000"
+      "log_spam_fixer": "2024-12-18 03:52:53 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 03:42:53 +0000"
+      "log_spam_fixer": "2024-12-18 03:52:53 +0000"
     },
     "done": false
   },
@@ -3340,6 +3340,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-18 03:49:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-18 02:58:47 +0000"
@@ -3367,6 +3373,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-18 03:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-18 03:49:15 +0000"
     },
     "done": true
   },

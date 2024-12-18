@@ -4088,3 +4088,5 @@
 [2024-12-18 03:17:11] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -239 26 -1225 in a room of size 15x14 
 [2024-12-18 03:17:11] [INFO   ] Calculated structure at -13,-76 
 [2024-12-18 03:17:11] [INFO   ] Minecart with chest at: -207, 11, -1204 
+[2024-12-18 03:52:13] [INFO   ] Large Cave at -704,7,-1216 has water level > -22 with populator LargeLushCavePopulator 
+[2024-12-18 03:52:13] [INFO   ] Calculated structure at -33,-86 
