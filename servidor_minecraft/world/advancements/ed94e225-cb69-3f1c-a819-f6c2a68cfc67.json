@@ -1511,79 +1511,97 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 04:27:53 +0000"
+      "log_spam_fixer": "2024-12-18 04:37:53 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 04:27:53 +0000"
+      "log_spam_fixer": "2024-12-18 04:37:53 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 04:27:53 +0000"
+      "log_spam_fixer": "2024-12-18 04:37:53 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 04:27:53 +0000"
+      "log_spam_fixer": "2024-12-18 04:37:53 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 04:27:53 +0000"
+      "log_spam_fixer": "2024-12-18 04:37:53 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 04:27:53 +0000"
+      "log_spam_fixer": "2024-12-18 04:37:53 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 04:27:53 +0000"
+      "log_spam_fixer": "2024-12-18 04:37:53 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 04:27:53 +0000"
+      "log_spam_fixer": "2024-12-18 04:37:53 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 04:27:53 +0000"
+      "log_spam_fixer": "2024-12-18 04:37:53 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 04:27:53 +0000"
+      "log_spam_fixer": "2024-12-18 04:37:53 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 04:27:53 +0000"
+      "log_spam_fixer": "2024-12-18 04:37:53 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 04:27:53 +0000"
+      "log_spam_fixer": "2024-12-18 04:37:53 +0000"
     },
     "done": false
   },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-18 04:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-18 04:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-18 04:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-18 04:29:12 +0000"
     },
     "done": true
   },
